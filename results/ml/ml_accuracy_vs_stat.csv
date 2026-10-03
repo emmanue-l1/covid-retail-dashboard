@@ -1,0 +1,10 @@
+adj,nace,category,stat_model,countries,MAPE_GlobalGBM,MAPE_stat_model,pct_countries_ML_better,wilcoxon_p
+CAR,G47_NFOOD,Non-food (incl. fuel),SARIMA,26,6.011,5.773,26.923,0.041
+NSA,G47,Total retail,SARIMA,33,5.525,4.201,21.212,0.0
+NSA,G4791,Online / mail order,SARIMA,19,10.79,11.046,68.421,0.418
+NSA,G47_FOOD,"Food, drink, tobacco",SARIMA,33,4.417,4.26,30.303,0.041
+NSA,G47_NFOOD,Non-food (incl. fuel),SARIMA,6,4.048,3.895,50.0,1.0
+SCA,G47,Total retail,Ensemble,33,3.832,4.077,66.667,0.068
+SCA,G4791,Online / mail order,Ensemble,19,7.909,8.187,68.421,0.258
+SCA,G47_FOOD,"Food, drink, tobacco",Ensemble,33,3.094,3.319,63.636,0.044
+SCA,G47_NFOOD,Non-food (incl. fuel),Ensemble,6,3.482,3.814,66.667,0.688

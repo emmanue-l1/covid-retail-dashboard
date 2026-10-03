@@ -1,0 +1,183 @@
+adj,nace,country,avg_gap_pct_2020_21_volume,peak_gap_pct_volume,avg_gap_pct_2020_21_value,peak_gap_pct_value,price_effect_pp,category
+NSA,G47,Albania,-7.15,-32.43,-9.41,-33.59,-2.26,Total retail
+NSA,G47,Austria,-0.89,-19.08,-1.31,-20.23,-0.42,Total retail
+NSA,G47,Belgium,3.0,-10.59,2.38,-10.75,-0.62,Total retail
+NSA,G47,Bosnia and Herzegovina,-12.25,-39.77,-15.18,-38.55,-2.93,Total retail
+NSA,G47,Bulgaria,-10.19,-20.34,-6.14,-19.94,4.05,Total retail
+NSA,G47,Croatia,-9.66,-29.13,-10.16,-30.72,-0.5,Total retail
+NSA,G47,Cyprus,-9.19,-34.13,-8.12,-34.59,1.07,Total retail
+NSA,G47,Czechia,-7.8,-15.51,-7.38,-16.2,0.42,Total retail
+NSA,G47,Denmark,4.34,17.38,5.34,18.4,1.0,Total retail
+NSA,G47,Estonia,1.76,-16.18,-0.85,-18.2,-2.61,Total retail
+NSA,G47,Finland,2.87,7.6,3.27,8.54,0.4,Total retail
+NSA,G47,France,-2.1,-31.29,-3.2,-32.91,-1.1,Total retail
+NSA,G47,Germany,0.94,-11.97,1.57,-11.89,0.63,Total retail
+NSA,G47,Greece,-3.47,-23.8,-4.25,-24.77,-0.78,Total retail
+NSA,G47,Hungary,-11.27,-19.6,-11.37,-22.18,-0.1,Total retail
+NSA,G47,Italy,-7.16,-33.45,-6.84,-33.29,0.32,Total retail
+NSA,G47,Latvia,-6.63,-19.3,-9.51,-22.28,-2.88,Total retail
+NSA,G47,Lithuania,0.48,-16.51,-1.87,-20.24,-2.35,Total retail
+NSA,G47,Luxembourg,-3.93,-19.61,-4.72,-21.72,-0.79,Total retail
+NSA,G47,Malta,-11.09,-28.9,-11.44,-28.85,-0.35,Total retail
+NSA,G47,Montenegro,-7.37,-27.74,-8.29,-31.55,-0.92,Total retail
+NSA,G47,Netherlands,-0.54,-12.82,-0.33,-12.3,0.21,Total retail
+NSA,G47,North Macedonia,-6.79,-21.37,-8.72,-27.08,-1.93,Total retail
+NSA,G47,Norway,7.5,15.54,9.57,18.05,2.07,Total retail
+NSA,G47,Poland,-3.3,-15.74,-2.96,-15.8,0.34,Total retail
+NSA,G47,Portugal,-10.83,-27.77,-10.78,-29.16,0.05,Total retail
+NSA,G47,Romania,-10.54,-29.25,-10.51,-30.34,0.03,Total retail
+NSA,G47,Serbia,-7.19,-27.43,-7.72,-29.23,-0.53,Total retail
+NSA,G47,Slovakia,-5.18,-21.02,-6.45,-22.66,-1.27,Total retail
+NSA,G47,Slovenia,-2.81,-21.74,-5.85,-26.3,-3.04,Total retail
+NSA,G47,Spain,-8.38,-31.84,-8.45,-33.45,-0.07,Total retail
+NSA,G47,Switzerland,1.67,-18.37,1.7,-18.77,0.03,Total retail
+NSA,G47,Türkiye,-2.96,-27.47,5.85,38.14,8.81,Total retail
+NSA,G4791,Austria,19.43,38.69,18.08,36.61,-1.35,Online / mail order
+NSA,G4791,Belgium,16.76,40.16,18.32,42.37,1.56,Online / mail order
+NSA,G4791,Bulgaria,25.95,65.78,25.79,68.01,-0.16,Online / mail order
+NSA,G4791,Croatia,4.1,25.33,4.51,24.53,0.41,Online / mail order
+NSA,G4791,Czechia,7.66,27.81,12.51,33.28,4.85,Online / mail order
+NSA,G4791,Finland,28.45,49.23,29.37,49.7,0.92,Online / mail order
+NSA,G4791,France,17.69,37.53,17.49,36.46,-0.2,Online / mail order
+NSA,G4791,Germany,17.05,36.15,17.43,35.26,0.38,Online / mail order
+NSA,G4791,Greece,107.41,177.52,106.11,173.85,-1.3,Online / mail order
+NSA,G4791,Italy,15.99,51.21,17.45,53.82,1.46,Online / mail order
+NSA,G4791,Lithuania,28.27,57.3,29.2,55.71,0.93,Online / mail order
+NSA,G4791,Netherlands,17.14,35.35,18.37,36.2,1.23,Online / mail order
+NSA,G4791,Norway,36.52,71.48,40.33,79.32,3.81,Online / mail order
+NSA,G4791,Poland,14.96,29.9,16.92,35.5,1.96,Online / mail order
+NSA,G4791,Portugal,15.82,62.33,18.0,67.75,2.18,Online / mail order
+NSA,G4791,Romania,22.02,49.37,22.43,49.04,0.41,Online / mail order
+NSA,G4791,Spain,24.78,48.44,26.74,48.4,1.96,Online / mail order
+NSA,G4791,Sweden,31.16,48.02,31.24,48.19,0.08,Online / mail order
+NSA,G4791,Türkiye,35.42,64.75,44.7,80.4,9.28,Online / mail order
+NSA,G47_FOOD,Albania,-5.77,-12.41,-8.11,-39.64,-2.34,"Food, drink, tobacco"
+NSA,G47_FOOD,Austria,5.03,12.23,4.61,10.94,-0.42,"Food, drink, tobacco"
+NSA,G47_FOOD,Belgium,3.89,10.11,3.71,12.14,-0.18,"Food, drink, tobacco"
+NSA,G47_FOOD,Bosnia and Herzegovina,-13.65,-26.96,-12.17,-27.09,1.48,"Food, drink, tobacco"
+NSA,G47_FOOD,Bulgaria,-8.99,-18.4,-7.59,-16.91,1.4,"Food, drink, tobacco"
+NSA,G47_FOOD,Croatia,-5.98,-15.73,-6.19,-16.13,-0.21,"Food, drink, tobacco"
+NSA,G47_FOOD,Cyprus,-2.14,16.51,-3.77,15.02,-1.63,"Food, drink, tobacco"
+NSA,G47_FOOD,Czechia,-5.28,-8.98,-4.64,-8.01,0.64,"Food, drink, tobacco"
+NSA,G47_FOOD,Denmark,1.43,8.07,5.3,11.86,3.87,"Food, drink, tobacco"
+NSA,G47_FOOD,Estonia,-0.53,4.8,-2.5,-5.56,-1.97,"Food, drink, tobacco"
+NSA,G47_FOOD,Finland,4.29,8.68,4.18,7.77,-0.11,"Food, drink, tobacco"
+NSA,G47_FOOD,France,1.68,-6.2,0.73,-6.97,-0.95,"Food, drink, tobacco"
+NSA,G47_FOOD,Germany,2.65,10.92,3.64,12.53,0.99,"Food, drink, tobacco"
+NSA,G47_FOOD,Greece,0.67,11.03,1.45,11.55,0.78,"Food, drink, tobacco"
+NSA,G47_FOOD,Hungary,-5.08,-9.74,-3.44,-7.14,1.64,"Food, drink, tobacco"
+NSA,G47_FOOD,Italy,0.6,3.66,1.67,5.11,1.07,"Food, drink, tobacco"
+NSA,G47_FOOD,Latvia,-4.35,-9.97,-5.11,-11.52,-0.76,"Food, drink, tobacco"
+NSA,G47_FOOD,Lithuania,1.8,8.03,1.36,6.07,-0.44,"Food, drink, tobacco"
+NSA,G47_FOOD,Luxembourg,4.25,11.72,3.74,10.5,-0.51,"Food, drink, tobacco"
+NSA,G47_FOOD,Malta,-13.37,-22.82,-12.87,-20.99,0.5,"Food, drink, tobacco"
+NSA,G47_FOOD,Montenegro,-1.45,35.37,-7.32,-33.95,-5.87,"Food, drink, tobacco"
+NSA,G47_FOOD,Netherlands,2.51,7.14,3.37,8.76,0.86,"Food, drink, tobacco"
+NSA,G47_FOOD,North Macedonia,-8.15,-15.23,-5.76,-14.47,2.39,"Food, drink, tobacco"
+NSA,G47_FOOD,Norway,8.99,21.97,10.93,25.88,1.94,"Food, drink, tobacco"
+NSA,G47_FOOD,Poland,-5.21,-10.99,-4.1,-10.09,1.11,"Food, drink, tobacco"
+NSA,G47_FOOD,Portugal,-4.57,-10.66,-4.53,-10.49,0.04,"Food, drink, tobacco"
+NSA,G47_FOOD,Romania,-9.75,-15.14,-8.68,-14.56,1.07,"Food, drink, tobacco"
+NSA,G47_FOOD,Serbia,-2.99,-13.12,-2.83,-14.19,0.16,"Food, drink, tobacco"
+NSA,G47_FOOD,Slovakia,-6.73,-11.98,-7.12,-13.37,-0.39,"Food, drink, tobacco"
+NSA,G47_FOOD,Slovenia,4.27,12.88,4.01,11.86,-0.26,"Food, drink, tobacco"
+NSA,G47_FOOD,Spain,-2.24,7.36,-1.55,7.79,0.69,"Food, drink, tobacco"
+NSA,G47_FOOD,Switzerland,6.76,16.84,6.12,14.98,-0.64,"Food, drink, tobacco"
+NSA,G47_FOOD,Türkiye,3.23,11.94,11.1,30.21,7.87,"Food, drink, tobacco"
+NSA,G47_NFOOD,Bulgaria,-6.36,-28.26,-7.91,-30.96,-1.55,Non-food (incl. fuel)
+NSA,G47_NFOOD,Croatia,-11.83,-43.65,-12.21,-46.17,-0.38,Non-food (incl. fuel)
+NSA,G47_NFOOD,Denmark,4.97,20.83,4.32,19.93,-0.65,Non-food (incl. fuel)
+NSA,G47_NFOOD,Latvia,-8.73,-25.6,-11.88,-29.43,-3.15,Non-food (incl. fuel)
+NSA,G47_NFOOD,Portugal,-14.19,-39.75,-14.45,-42.43,-0.26,Non-food (incl. fuel)
+NSA,G47_NFOOD,Türkiye,-5.48,-40.05,3.27,45.93,8.75,Non-food (incl. fuel)
+SCA,G47,Albania,-8.43,-32.34,-11.15,-34.14,-2.72,Total retail
+SCA,G47,Austria,-1.49,-18.39,-1.88,-18.34,-0.39,Total retail
+SCA,G47,Belgium,3.77,-10.3,3.17,-10.81,-0.6,Total retail
+SCA,G47,Bosnia and Herzegovina,-9.95,-37.13,-12.15,-35.04,-2.2,Total retail
+SCA,G47,Bulgaria,-11.83,-21.75,-12.92,-23.06,-1.09,Total retail
+SCA,G47,Croatia,-5.74,-26.52,-6.31,-28.17,-0.57,Total retail
+SCA,G47,Cyprus,-2.05,-32.14,-4.34,-34.34,-2.29,Total retail
+SCA,G47,Czechia,-4.54,-11.4,-4.73,-12.71,-0.19,Total retail
+SCA,G47,Denmark,5.92,20.28,6.3,19.32,0.38,Total retail
+SCA,G47,Estonia,0.8,-16.06,-1.32,-16.58,-2.12,Total retail
+SCA,G47,Finland,3.09,6.55,2.62,5.49,-0.47,Total retail
+SCA,G47,France,-1.87,-32.21,-2.25,-32.87,-0.38,Total retail
+SCA,G47,Germany,0.56,-8.95,1.03,-8.92,0.47,Total retail
+SCA,G47,Greece,2.28,-26.39,1.83,-27.13,-0.45,Total retail
+SCA,G47,Hungary,-6.0,-15.41,-4.24,-17.75,1.76,Total retail
+SCA,G47,Italy,-6.1,-31.78,-6.01,-31.93,0.09,Total retail
+SCA,G47,Latvia,-8.18,-17.47,-9.09,-20.08,-0.91,Total retail
+SCA,G47,Lithuania,0.77,-17.46,2.04,-18.97,1.27,Total retail
+SCA,G47,Luxembourg,-4.07,-16.25,-1.39,-18.41,2.68,Total retail
+SCA,G47,Malta,-6.89,-24.53,-11.83,-25.85,-4.94,Total retail
+SCA,G47,Montenegro,-10.36,-30.63,-9.31,-31.79,1.05,Total retail
+SCA,G47,Netherlands,1.3,-11.09,2.25,-10.68,0.95,Total retail
+SCA,G47,North Macedonia,-4.89,-19.28,-5.56,-24.91,-0.67,Total retail
+SCA,G47,Norway,7.26,14.66,9.16,13.85,1.9,Total retail
+SCA,G47,Poland,-2.47,-15.2,-2.63,-17.5,-0.16,Total retail
+SCA,G47,Portugal,-10.06,-29.41,-10.58,-30.67,-0.52,Total retail
+SCA,G47,Romania,-5.84,-26.52,-7.4,-29.15,-1.56,Total retail
+SCA,G47,Serbia,2.89,-24.08,1.51,-25.36,-1.38,Total retail
+SCA,G47,Slovakia,-4.83,-16.27,-6.29,-18.12,-1.46,Total retail
+SCA,G47,Slovenia,-2.99,-21.8,-4.85,-25.47,-1.86,Total retail
+SCA,G47,Spain,-6.43,-30.59,-6.56,-32.93,-0.13,Total retail
+SCA,G47,Switzerland,2.04,-19.4,2.17,-19.4,0.13,Total retail
+SCA,G47,Türkiye,0.48,-25.1,6.44,46.33,5.96,Total retail
+SCA,G4791,Austria,21.7,39.09,20.94,34.31,-0.76,Online / mail order
+SCA,G4791,Belgium,18.79,34.28,24.17,38.49,5.38,Online / mail order
+SCA,G4791,Bulgaria,29.04,48.72,28.28,45.63,-0.76,Online / mail order
+SCA,G4791,Croatia,4.9,-23.96,7.6,22.01,2.7,Online / mail order
+SCA,G4791,Czechia,10.69,22.74,14.95,25.17,4.26,Online / mail order
+SCA,G4791,Finland,25.71,37.39,25.89,38.09,0.18,Online / mail order
+SCA,G4791,France,15.57,34.6,15.82,34.72,0.25,Online / mail order
+SCA,G4791,Germany,18.98,33.46,19.66,33.46,0.68,Online / mail order
+SCA,G4791,Greece,106.64,167.42,103.74,164.91,-2.9,Online / mail order
+SCA,G4791,Italy,28.77,45.84,18.15,40.24,-10.62,Online / mail order
+SCA,G4791,Lithuania,36.65,60.27,36.32,58.69,-0.33,Online / mail order
+SCA,G4791,Netherlands,19.15,33.18,22.79,36.97,3.64,Online / mail order
+SCA,G4791,Norway,36.36,67.27,40.68,74.66,4.32,Online / mail order
+SCA,G4791,Poland,10.7,18.12,19.37,29.67,8.67,Online / mail order
+SCA,G4791,Portugal,14.65,48.32,18.6,55.7,3.95,Online / mail order
+SCA,G4791,Romania,8.36,23.34,9.61,23.62,1.25,Online / mail order
+SCA,G4791,Spain,27.02,52.43,28.96,51.83,1.94,Online / mail order
+SCA,G4791,Sweden,23.53,30.03,24.45,30.47,0.92,Online / mail order
+SCA,G4791,Türkiye,44.17,77.26,53.81,96.72,9.64,Online / mail order
+SCA,G47_FOOD,Albania,-4.23,-9.99,-10.16,-40.12,-5.93,"Food, drink, tobacco"
+SCA,G47_FOOD,Austria,2.12,7.54,3.03,6.76,0.91,"Food, drink, tobacco"
+SCA,G47_FOOD,Belgium,5.77,12.55,4.41,12.93,-1.36,"Food, drink, tobacco"
+SCA,G47_FOOD,Bosnia and Herzegovina,-9.95,-25.67,-8.65,-25.56,1.3,"Food, drink, tobacco"
+SCA,G47_FOOD,Bulgaria,-7.13,-15.01,-7.32,-14.73,-0.19,"Food, drink, tobacco"
+SCA,G47_FOOD,Croatia,-6.15,-15.48,-3.47,-12.65,2.68,"Food, drink, tobacco"
+SCA,G47_FOOD,Cyprus,-0.11,17.76,-0.85,17.1,-0.74,"Food, drink, tobacco"
+SCA,G47_FOOD,Czechia,-2.01,-4.64,-2.52,-5.71,-0.51,"Food, drink, tobacco"
+SCA,G47_FOOD,Denmark,3.59,9.22,5.01,9.98,1.42,"Food, drink, tobacco"
+SCA,G47_FOOD,Estonia,0.95,3.88,-0.64,-5.15,-1.59,"Food, drink, tobacco"
+SCA,G47_FOOD,Finland,4.8,7.55,4.13,6.26,-0.67,"Food, drink, tobacco"
+SCA,G47_FOOD,France,2.95,7.51,2.33,6.32,-0.62,"Food, drink, tobacco"
+SCA,G47_FOOD,Germany,1.81,8.57,2.3,8.77,0.49,"Food, drink, tobacco"
+SCA,G47_FOOD,Greece,4.97,17.77,5.3,19.42,0.33,"Food, drink, tobacco"
+SCA,G47_FOOD,Hungary,-1.73,5.83,-0.65,6.25,1.08,"Food, drink, tobacco"
+SCA,G47_FOOD,Italy,0.54,2.3,0.93,3.19,0.39,"Food, drink, tobacco"
+SCA,G47_FOOD,Latvia,-3.41,-7.69,-3.55,-8.95,-0.14,"Food, drink, tobacco"
+SCA,G47_FOOD,Lithuania,2.93,8.56,2.46,6.83,-0.47,"Food, drink, tobacco"
+SCA,G47_FOOD,Luxembourg,3.85,12.02,3.38,10.5,-0.47,"Food, drink, tobacco"
+SCA,G47_FOOD,Malta,-13.29,-21.53,-14.5,-20.96,-1.21,"Food, drink, tobacco"
+SCA,G47_FOOD,Montenegro,-9.91,-34.35,-12.07,-36.68,-2.16,"Food, drink, tobacco"
+SCA,G47_FOOD,Netherlands,3.91,8.73,4.29,9.75,0.38,"Food, drink, tobacco"
+SCA,G47_FOOD,North Macedonia,-3.62,-11.39,-1.09,-10.67,2.53,"Food, drink, tobacco"
+SCA,G47_FOOD,Norway,9.83,17.83,11.56,17.98,1.73,"Food, drink, tobacco"
+SCA,G47_FOOD,Poland,-1.8,-5.81,-3.69,-9.08,-1.89,"Food, drink, tobacco"
+SCA,G47_FOOD,Portugal,-2.23,-9.94,-2.91,-10.17,-0.68,"Food, drink, tobacco"
+SCA,G47_FOOD,Romania,-3.78,-13.65,-2.32,-13.36,1.46,"Food, drink, tobacco"
+SCA,G47_FOOD,Serbia,2.84,-11.55,2.6,-12.07,-0.24,"Food, drink, tobacco"
+SCA,G47_FOOD,Slovakia,-7.58,-10.4,-7.88,-10.78,-0.3,"Food, drink, tobacco"
+SCA,G47_FOOD,Slovenia,3.99,9.66,3.77,9.92,-0.22,"Food, drink, tobacco"
+SCA,G47_FOOD,Spain,-0.38,8.07,-0.4,8.38,-0.02,"Food, drink, tobacco"
+SCA,G47_FOOD,Switzerland,6.37,14.18,5.59,14.81,-0.78,"Food, drink, tobacco"
+SCA,G47_FOOD,Türkiye,4.88,11.29,12.16,36.82,7.28,"Food, drink, tobacco"
+SCA,G47_NFOOD,Bulgaria,-15.57,-30.16,-20.5,-33.59,-4.93,Non-food (incl. fuel)
+SCA,G47_NFOOD,Croatia,-7.37,-39.94,-8.29,-43.67,-0.92,Non-food (incl. fuel)
+SCA,G47_NFOOD,Denmark,7.49,20.69,7.21,19.62,-0.28,Non-food (incl. fuel)
+SCA,G47_NFOOD,Latvia,-10.85,-22.9,-12.78,-27.55,-1.93,Non-food (incl. fuel)
+SCA,G47_NFOOD,Portugal,-14.74,-42.14,-14.52,-43.95,0.22,Non-food (incl. fuel)
+SCA,G47_NFOOD,Türkiye,-1.09,-38.48,4.29,50.29,5.38,Non-food (incl. fuel)

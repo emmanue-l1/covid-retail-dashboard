@@ -1,0 +1,433 @@
+nace,country,avg_gap_pct,wave,category
+G47,Albania,-17.53,First lockdown,Total retail
+G47,Austria,-7.37,First lockdown,Total retail
+G47,Belgium,-2.4,First lockdown,Total retail
+G47,Bosnia and Herzegovina,-19.53,First lockdown,Total retail
+G47,Bulgaria,-19.36,First lockdown,Total retail
+G47,Croatia,-14.56,First lockdown,Total retail
+G47,Cyprus,-11.14,First lockdown,Total retail
+G47,Czechia,-7.07,First lockdown,Total retail
+G47,Denmark,2.4,First lockdown,Total retail
+G47,Estonia,-6.14,First lockdown,Total retail
+G47,Finland,0.92,First lockdown,Total retail
+G47,France,-14.09,First lockdown,Total retail
+G47,Germany,-0.68,First lockdown,Total retail
+G47,Greece,-8.53,First lockdown,Total retail
+G47,Hungary,-7.45,First lockdown,Total retail
+G47,Italy,-19.56,First lockdown,Total retail
+G47,Latvia,-5.5,First lockdown,Total retail
+G47,Lithuania,-8.79,First lockdown,Total retail
+G47,Luxembourg,-5.43,First lockdown,Total retail
+G47,Malta,-15.09,First lockdown,Total retail
+G47,Montenegro,-13.74,First lockdown,Total retail
+G47,Netherlands,-1.21,First lockdown,Total retail
+G47,North Macedonia,-12.24,First lockdown,Total retail
+G47,Norway,5.48,First lockdown,Total retail
+G47,Poland,-8.59,First lockdown,Total retail
+G47,Portugal,-18.08,First lockdown,Total retail
+G47,Romania,-12.91,First lockdown,Total retail
+G47,Serbia,-6.03,First lockdown,Total retail
+G47,Slovakia,-11.11,First lockdown,Total retail
+G47,Slovenia,-13.53,First lockdown,Total retail
+G47,Spain,-17.79,First lockdown,Total retail
+G47,Switzerland,-4.34,First lockdown,Total retail
+G47,Türkiye,-14.41,First lockdown,Total retail
+G4791,Austria,20.23,First lockdown,Online / mail order
+G4791,Belgium,24.84,First lockdown,Online / mail order
+G4791,Bulgaria,5.41,First lockdown,Online / mail order
+G4791,Croatia,1.81,First lockdown,Online / mail order
+G4791,Czechia,14.75,First lockdown,Online / mail order
+G4791,Finland,18.28,First lockdown,Online / mail order
+G4791,France,8.79,First lockdown,Online / mail order
+G4791,Germany,17.26,First lockdown,Online / mail order
+G4791,Greece,48.15,First lockdown,Online / mail order
+G4791,Italy,11.76,First lockdown,Online / mail order
+G4791,Lithuania,24.96,First lockdown,Online / mail order
+G4791,Netherlands,15.63,First lockdown,Online / mail order
+G4791,Norway,28.7,First lockdown,Online / mail order
+G4791,Poland,10.9,First lockdown,Online / mail order
+G4791,Portugal,0.14,First lockdown,Online / mail order
+G4791,Romania,16.93,First lockdown,Online / mail order
+G4791,Spain,32.92,First lockdown,Online / mail order
+G4791,Sweden,16.74,First lockdown,Online / mail order
+G4791,Türkiye,24.59,First lockdown,Online / mail order
+G47_FOOD,Albania,-2.65,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Austria,3.46,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Belgium,9.21,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Bosnia and Herzegovina,-11.79,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Bulgaria,-6.51,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Croatia,-9.56,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Cyprus,2.39,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Czechia,-1.89,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Denmark,3.68,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Estonia,-1.36,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Finland,5.35,First lockdown,"Food, drink, tobacco"
+G47_FOOD,France,0.38,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Germany,5.07,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Greece,2.74,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Hungary,-1.01,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Italy,-0.45,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Latvia,-0.35,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Lithuania,-0.8,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Luxembourg,-0.55,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Malta,-15.71,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Montenegro,-4.3,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Netherlands,4.48,First lockdown,"Food, drink, tobacco"
+G47_FOOD,North Macedonia,-6.01,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Norway,11.26,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Poland,-3.01,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Portugal,-4.53,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Romania,-4.65,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Serbia,-1.62,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Slovakia,-5.01,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Slovenia,-1.41,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Spain,1.65,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Switzerland,6.89,First lockdown,"Food, drink, tobacco"
+G47_FOOD,Türkiye,2.75,First lockdown,"Food, drink, tobacco"
+G47_NFOOD,Austria,-14.03,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Belgium,-10.49,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Bulgaria,-22.72,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Croatia,-22.12,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Cyprus,-30.93,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Czechia,-10.22,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Denmark,-2.39,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Estonia,-8.21,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,France,-21.55,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Germany,-3.73,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Greece,-16.28,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Italy,-34.19,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Latvia,-8.01,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Lithuania,-12.94,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Luxembourg,-25.12,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Malta,-20.95,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Portugal,-25.28,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Romania,-19.59,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Slovakia,-9.54,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Slovenia,-18.86,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Spain,-33.18,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Sweden,-4.14,First lockdown,Non-food (incl. fuel)
+G47_NFOOD,Türkiye,-24.05,First lockdown,Non-food (incl. fuel)
+G47,Albania,-6.25,Summer 2020,Total retail
+G47,Austria,2.28,Summer 2020,Total retail
+G47,Belgium,5.23,Summer 2020,Total retail
+G47,Bosnia and Herzegovina,-15.8,Summer 2020,Total retail
+G47,Bulgaria,-12.38,Summer 2020,Total retail
+G47,Croatia,-9.62,Summer 2020,Total retail
+G47,Cyprus,-2.95,Summer 2020,Total retail
+G47,Czechia,-3.07,Summer 2020,Total retail
+G47,Denmark,6.33,Summer 2020,Total retail
+G47,Estonia,-1.83,Summer 2020,Total retail
+G47,Finland,2.69,Summer 2020,Total retail
+G47,France,0.8,Summer 2020,Total retail
+G47,Germany,3.38,Summer 2020,Total retail
+G47,Greece,0.41,Summer 2020,Total retail
+G47,Hungary,-5.15,Summer 2020,Total retail
+G47,Italy,-2.81,Summer 2020,Total retail
+G47,Latvia,-2.69,Summer 2020,Total retail
+G47,Lithuania,1.12,Summer 2020,Total retail
+G47,Luxembourg,0.31,Summer 2020,Total retail
+G47,Malta,-10.58,Summer 2020,Total retail
+G47,Montenegro,-21.07,Summer 2020,Total retail
+G47,Netherlands,2.72,Summer 2020,Total retail
+G47,North Macedonia,-7.51,Summer 2020,Total retail
+G47,Norway,10.32,Summer 2020,Total retail
+G47,Poland,-2.41,Summer 2020,Total retail
+G47,Portugal,-7.64,Summer 2020,Total retail
+G47,Romania,-5.05,Summer 2020,Total retail
+G47,Serbia,0.99,Summer 2020,Total retail
+G47,Slovakia,-2.0,Summer 2020,Total retail
+G47,Slovenia,-8.38,Summer 2020,Total retail
+G47,Spain,-4.19,Summer 2020,Total retail
+G47,Switzerland,2.85,Summer 2020,Total retail
+G47,Türkiye,-0.01,Summer 2020,Total retail
+G4791,Austria,19.2,Summer 2020,Online / mail order
+G4791,Belgium,20.4,Summer 2020,Online / mail order
+G4791,Bulgaria,26.92,Summer 2020,Online / mail order
+G4791,Croatia,6.91,Summer 2020,Online / mail order
+G4791,Czechia,10.03,Summer 2020,Online / mail order
+G4791,Finland,18.39,Summer 2020,Online / mail order
+G4791,France,8.08,Summer 2020,Online / mail order
+G4791,Germany,16.56,Summer 2020,Online / mail order
+G4791,Greece,72.59,Summer 2020,Online / mail order
+G4791,Italy,31.6,Summer 2020,Online / mail order
+G4791,Lithuania,25.72,Summer 2020,Online / mail order
+G4791,Netherlands,13.28,Summer 2020,Online / mail order
+G4791,Norway,22.66,Summer 2020,Online / mail order
+G4791,Poland,2.55,Summer 2020,Online / mail order
+G4791,Portugal,4.09,Summer 2020,Online / mail order
+G4791,Romania,15.0,Summer 2020,Online / mail order
+G4791,Spain,22.09,Summer 2020,Online / mail order
+G4791,Sweden,22.49,Summer 2020,Online / mail order
+G4791,Türkiye,36.67,Summer 2020,Online / mail order
+G47_FOOD,Albania,-4.45,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Austria,1.52,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Belgium,5.52,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Bosnia and Herzegovina,-12.98,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Bulgaria,-8.89,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Croatia,-12.02,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Cyprus,-2.75,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Czechia,-1.46,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Denmark,3.41,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Estonia,-0.77,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Finland,4.56,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,France,2.59,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Germany,2.36,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Greece,-0.45,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Hungary,-2.19,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Italy,-0.32,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Latvia,0.24,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Lithuania,1.5,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Luxembourg,4.51,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Malta,-17.78,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Montenegro,-22.33,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Netherlands,3.28,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,North Macedonia,-5.63,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Norway,14.18,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Poland,0.6,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Portugal,-3.58,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Romania,-4.32,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Serbia,0.65,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Slovakia,-6.28,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Slovenia,-1.03,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Spain,-0.88,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Switzerland,5.57,Summer 2020,"Food, drink, tobacco"
+G47_FOOD,Türkiye,2.94,Summer 2020,"Food, drink, tobacco"
+G47_NFOOD,Austria,2.84,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Belgium,3.62,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Bulgaria,-5.34,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Croatia,-10.96,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Cyprus,-11.07,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Czechia,-3.86,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Denmark,7.44,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Estonia,-1.06,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,France,0.36,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Germany,4.91,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Greece,4.7,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Italy,-4.69,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Latvia,-2.31,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Lithuania,0.24,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Luxembourg,3.47,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Malta,-13.96,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Portugal,-8.47,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Romania,-7.09,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Slovakia,3.17,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Slovenia,-13.72,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Spain,-6.65,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Sweden,-1.09,Summer 2020,Non-food (incl. fuel)
+G47_NFOOD,Türkiye,-0.19,Summer 2020,Non-food (incl. fuel)
+G47,Albania,-6.99,Winter wave,Total retail
+G47,Austria,-3.02,Winter wave,Total retail
+G47,Belgium,4.52,Winter wave,Total retail
+G47,Bosnia and Herzegovina,-10.07,Winter wave,Total retail
+G47,Bulgaria,-9.83,Winter wave,Total retail
+G47,Croatia,-2.42,Winter wave,Total retail
+G47,Cyprus,-0.35,Winter wave,Total retail
+G47,Czechia,-8.03,Winter wave,Total retail
+G47,Denmark,6.09,Winter wave,Total retail
+G47,Estonia,0.05,Winter wave,Total retail
+G47,Finland,3.75,Winter wave,Total retail
+G47,France,-2.28,Winter wave,Total retail
+G47,Germany,-1.34,Winter wave,Total retail
+G47,Greece,-1.46,Winter wave,Total retail
+G47,Hungary,-6.71,Winter wave,Total retail
+G47,Italy,-8.05,Winter wave,Total retail
+G47,Latvia,-11.49,Winter wave,Total retail
+G47,Lithuania,-0.56,Winter wave,Total retail
+G47,Luxembourg,-9.38,Winter wave,Total retail
+G47,Malta,-5.97,Winter wave,Total retail
+G47,Montenegro,-9.82,Winter wave,Total retail
+G47,Netherlands,-2.89,Winter wave,Total retail
+G47,North Macedonia,-4.11,Winter wave,Total retail
+G47,Norway,6.62,Winter wave,Total retail
+G47,Poland,-4.55,Winter wave,Total retail
+G47,Portugal,-13.06,Winter wave,Total retail
+G47,Romania,-3.68,Winter wave,Total retail
+G47,Serbia,2.8,Winter wave,Total retail
+G47,Slovakia,-7.56,Winter wave,Total retail
+G47,Slovenia,-4.56,Winter wave,Total retail
+G47,Spain,-5.27,Winter wave,Total retail
+G47,Switzerland,3.28,Winter wave,Total retail
+G47,Türkiye,2.21,Winter wave,Total retail
+G4791,Austria,28.37,Winter wave,Online / mail order
+G4791,Belgium,26.2,Winter wave,Online / mail order
+G4791,Bulgaria,36.47,Winter wave,Online / mail order
+G4791,Croatia,6.06,Winter wave,Online / mail order
+G4791,Czechia,16.29,Winter wave,Online / mail order
+G4791,Finland,27.47,Winter wave,Online / mail order
+G4791,France,25.95,Winter wave,Online / mail order
+G4791,Germany,27.2,Winter wave,Online / mail order
+G4791,Greece,150.93,Winter wave,Online / mail order
+G4791,Italy,36.37,Winter wave,Online / mail order
+G4791,Lithuania,50.74,Winter wave,Online / mail order
+G4791,Netherlands,27.33,Winter wave,Online / mail order
+G4791,Norway,50.23,Winter wave,Online / mail order
+G4791,Poland,12.9,Winter wave,Online / mail order
+G4791,Portugal,33.94,Winter wave,Online / mail order
+G4791,Romania,10.7,Winter wave,Online / mail order
+G4791,Spain,31.8,Winter wave,Online / mail order
+G4791,Sweden,27.88,Winter wave,Online / mail order
+G4791,Türkiye,46.5,Winter wave,Online / mail order
+G47_FOOD,Albania,-4.81,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Austria,5.34,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Belgium,6.31,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Bosnia and Herzegovina,-10.62,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Bulgaria,-6.59,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Croatia,-2.18,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Cyprus,3.85,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Czechia,-2.63,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Denmark,5.4,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Estonia,1.25,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Finland,5.37,Winter wave,"Food, drink, tobacco"
+G47_FOOD,France,3.05,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Germany,3.86,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Greece,7.45,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Hungary,-1.67,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Italy,1.24,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Latvia,-4.43,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Lithuania,5.86,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Luxembourg,4.24,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Malta,-12.76,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Montenegro,-7.84,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Netherlands,6.45,Winter wave,"Food, drink, tobacco"
+G47_FOOD,North Macedonia,-3.52,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Norway,11.74,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Poland,-2.88,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Portugal,-1.48,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Romania,-3.33,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Serbia,4.07,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Slovakia,-7.92,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Slovenia,6.46,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Spain,0.41,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Switzerland,10.35,Winter wave,"Food, drink, tobacco"
+G47_FOOD,Türkiye,6.46,Winter wave,"Food, drink, tobacco"
+G47_NFOOD,Austria,-9.6,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Belgium,2.33,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Bulgaria,-4.61,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Croatia,-7.59,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Cyprus,-11.95,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Czechia,-10.53,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Denmark,2.45,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Estonia,-0.04,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,France,-3.54,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Germany,-4.65,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Greece,-8.35,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Italy,-15.7,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Latvia,-14.47,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Lithuania,-5.67,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Luxembourg,-4.2,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Malta,-7.88,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Portugal,-19.77,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Romania,-6.04,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Slovakia,-10.71,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Slovenia,-15.46,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Spain,-10.85,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Sweden,0.67,Winter wave,Non-food (incl. fuel)
+G47_NFOOD,Türkiye,-2.72,Winter wave,Non-food (incl. fuel)
+G47,Albania,-6.05,Reopening 2021,Total retail
+G47,Austria,0.73,Reopening 2021,Total retail
+G47,Belgium,5.57,Reopening 2021,Total retail
+G47,Bosnia and Herzegovina,-2.14,Reopening 2021,Total retail
+G47,Bulgaria,-9.28,Reopening 2021,Total retail
+G47,Croatia,-1.88,Reopening 2021,Total retail
+G47,Cyprus,1.66,Reopening 2021,Total retail
+G47,Czechia,-1.38,Reopening 2021,Total retail
+G47,Denmark,7.35,Reopening 2021,Total retail
+G47,Estonia,6.14,Reopening 2021,Total retail
+G47,Finland,3.89,Reopening 2021,Total retail
+G47,France,3.23,Reopening 2021,Total retail
+G47,Germany,1.18,Reopening 2021,Total retail
+G47,Greece,11.43,Reopening 2021,Total retail
+G47,Hungary,-5.18,Reopening 2021,Total retail
+G47,Italy,0.44,Reopening 2021,Total retail
+G47,Latvia,-9.77,Reopening 2021,Total retail
+G47,Lithuania,6.38,Reopening 2021,Total retail
+G47,Luxembourg,-1.61,Reopening 2021,Total retail
+G47,Malta,-1.64,Reopening 2021,Total retail
+G47,Montenegro,-3.73,Reopening 2021,Total retail
+G47,Netherlands,4.98,Reopening 2021,Total retail
+G47,North Macedonia,-0.51,Reopening 2021,Total retail
+G47,Norway,7.11,Reopening 2021,Total retail
+G47,Poland,2.12,Reopening 2021,Total retail
+G47,Portugal,-5.01,Reopening 2021,Total retail
+G47,Romania,-4.31,Reopening 2021,Total retail
+G47,Serbia,8.38,Reopening 2021,Total retail
+G47,Slovakia,-1.05,Reopening 2021,Total retail
+G47,Slovenia,6.17,Reopening 2021,Total retail
+G47,Spain,-2.75,Reopening 2021,Total retail
+G47,Switzerland,3.89,Reopening 2021,Total retail
+G47,Türkiye,6.87,Reopening 2021,Total retail
+G4791,Austria,18.68,Reopening 2021,Online / mail order
+G4791,Belgium,9.41,Reopening 2021,Online / mail order
+G4791,Bulgaria,36.34,Reopening 2021,Online / mail order
+G4791,Croatia,4.57,Reopening 2021,Online / mail order
+G4791,Czechia,4.8,Reopening 2021,Online / mail order
+G4791,Finland,31.75,Reopening 2021,Online / mail order
+G4791,France,14.92,Reopening 2021,Online / mail order
+G4791,Germany,14.88,Reopening 2021,Online / mail order
+G4791,Greece,119.68,Reopening 2021,Online / mail order
+G4791,Italy,30.17,Reopening 2021,Online / mail order
+G4791,Lithuania,37.38,Reopening 2021,Online / mail order
+G4791,Netherlands,17.72,Reopening 2021,Online / mail order
+G4791,Norway,36.63,Reopening 2021,Online / mail order
+G4791,Poland,13.01,Reopening 2021,Online / mail order
+G4791,Portugal,12.71,Reopening 2021,Online / mail order
+G4791,Romania,-0.99,Reopening 2021,Online / mail order
+G4791,Spain,22.95,Reopening 2021,Online / mail order
+G4791,Sweden,24.17,Reopening 2021,Online / mail order
+G4791,Türkiye,55.96,Reopening 2021,Online / mail order
+G47_FOOD,Albania,-4.47,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Austria,-0.66,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Belgium,3.76,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Bosnia and Herzegovina,-7.02,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Bulgaria,-6.98,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Croatia,-4.49,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Cyprus,-3.0,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Czechia,-1.87,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Denmark,2.27,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Estonia,2.73,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Finland,4.21,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,France,4.33,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Germany,-1.64,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Greece,6.94,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Hungary,-1.9,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Italy,0.95,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Latvia,-5.99,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Lithuania,3.32,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Luxembourg,5.43,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Malta,-10.23,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Montenegro,-8.06,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Netherlands,2.03,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,North Macedonia,-1.49,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Norway,5.5,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Poland,-1.58,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Portugal,-0.96,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Romania,-3.42,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Serbia,5.24,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Slovakia,-9.25,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Slovenia,7.35,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Spain,-1.75,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Switzerland,3.52,Reopening 2021,"Food, drink, tobacco"
+G47_FOOD,Türkiye,5.72,Reopening 2021,"Food, drink, tobacco"
+G47_NFOOD,Austria,1.26,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Belgium,5.79,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Bulgaria,-1.15,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Croatia,-5.24,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Cyprus,-8.61,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Czechia,-2.27,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Denmark,12.42,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Estonia,10.49,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,France,3.72,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Germany,3.71,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Greece,12.56,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Italy,-0.63,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Latvia,-9.72,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Lithuania,7.45,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Luxembourg,7.32,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Malta,-2.53,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Portugal,-7.46,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Romania,-6.56,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Slovakia,-0.23,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Slovenia,7.09,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Spain,-8.79,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Sweden,4.33,Reopening 2021,Non-food (incl. fuel)
+G47_NFOOD,Türkiye,7.11,Reopening 2021,Non-food (incl. fuel)

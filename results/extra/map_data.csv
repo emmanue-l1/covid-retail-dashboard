@@ -1,0 +1,109 @@
+nace,country,avg_gap_pct_2020_21,category,iso3
+G47_NFOOD,Austria,-4.2,Non-food (incl. fuel),AUT
+G47_NFOOD,Belgium,1.49,Non-food (incl. fuel),BEL
+G47_NFOOD,Bulgaria,-6.78,Non-food (incl. fuel),BGR
+G47_NFOOD,Croatia,-9.99,Non-food (incl. fuel),HRV
+G47_NFOOD,Cyprus,-14.03,Non-food (incl. fuel),CYP
+G47_NFOOD,Czechia,-6.26,Non-food (incl. fuel),CZE
+G47_NFOOD,Denmark,6.1,Non-food (incl. fuel),DNK
+G47_NFOOD,Estonia,2.12,Non-food (incl. fuel),EST
+G47_NFOOD,France,-3.46,Non-food (incl. fuel),FRA
+G47_NFOOD,Germany,0.3,Non-food (incl. fuel),DEU
+G47_NFOOD,Greece,0.18,Non-food (incl. fuel),GRC
+G47_NFOOD,Italy,-11.58,Non-food (incl. fuel),ITA
+G47_NFOOD,Latvia,-9.36,Non-food (incl. fuel),LVA
+G47_NFOOD,Lithuania,-1.14,Non-food (incl. fuel),LTU
+G47_NFOOD,Luxembourg,-2.42,Non-food (incl. fuel),LUX
+G47_NFOOD,Malta,-9.42,Non-food (incl. fuel),MLT
+G47_NFOOD,Portugal,-14.24,Non-food (incl. fuel),PRT
+G47_NFOOD,Romania,-8.88,Non-food (incl. fuel),ROU
+G47_NFOOD,Slovakia,-4.16,Non-food (incl. fuel),SVK
+G47_NFOOD,Slovenia,-7.56,Non-food (incl. fuel),SVN
+G47_NFOOD,Spain,-13.4,Non-food (incl. fuel),ESP
+G47_NFOOD,Sweden,0.81,Non-food (incl. fuel),SWE
+G47_NFOOD,Türkiye,-2.56,Non-food (incl. fuel),TUR
+G47,Albania,-8.43,Total retail,ALB
+G47,Austria,-1.49,Total retail,AUT
+G47,Belgium,3.77,Total retail,BEL
+G47,Bosnia and Herzegovina,-9.95,Total retail,BIH
+G47,Bulgaria,-11.83,Total retail,BGR
+G47,Croatia,-5.74,Total retail,HRV
+G47,Cyprus,-2.05,Total retail,CYP
+G47,Czechia,-4.54,Total retail,CZE
+G47,Denmark,5.92,Total retail,DNK
+G47,Estonia,0.8,Total retail,EST
+G47,Finland,3.09,Total retail,FIN
+G47,France,-1.87,Total retail,FRA
+G47,Germany,0.56,Total retail,DEU
+G47,Greece,2.28,Total retail,GRC
+G47,Hungary,-6.0,Total retail,HUN
+G47,Italy,-6.1,Total retail,ITA
+G47,Latvia,-8.18,Total retail,LVA
+G47,Lithuania,0.77,Total retail,LTU
+G47,Luxembourg,-4.07,Total retail,LUX
+G47,Malta,-6.89,Total retail,MLT
+G47,Montenegro,-10.36,Total retail,MNE
+G47,Netherlands,1.3,Total retail,NLD
+G47,North Macedonia,-4.89,Total retail,MKD
+G47,Norway,7.26,Total retail,NOR
+G47,Poland,-2.47,Total retail,POL
+G47,Portugal,-10.06,Total retail,PRT
+G47,Romania,-5.84,Total retail,ROU
+G47,Serbia,2.89,Total retail,SRB
+G47,Slovakia,-4.83,Total retail,SVK
+G47,Slovenia,-2.99,Total retail,SVN
+G47,Spain,-6.43,Total retail,ESP
+G47,Switzerland,2.04,Total retail,CHE
+G47,Türkiye,0.48,Total retail,TUR
+G4791,Austria,21.7,Online / mail order,AUT
+G4791,Belgium,18.79,Online / mail order,BEL
+G4791,Bulgaria,29.04,Online / mail order,BGR
+G4791,Croatia,4.9,Online / mail order,HRV
+G4791,Czechia,10.69,Online / mail order,CZE
+G4791,Finland,25.71,Online / mail order,FIN
+G4791,France,15.57,Online / mail order,FRA
+G4791,Germany,18.98,Online / mail order,DEU
+G4791,Greece,106.64,Online / mail order,GRC
+G4791,Italy,28.77,Online / mail order,ITA
+G4791,Lithuania,36.65,Online / mail order,LTU
+G4791,Netherlands,19.15,Online / mail order,NLD
+G4791,Norway,36.36,Online / mail order,NOR
+G4791,Poland,10.7,Online / mail order,POL
+G4791,Portugal,14.65,Online / mail order,PRT
+G4791,Romania,8.36,Online / mail order,ROU
+G4791,Spain,27.02,Online / mail order,ESP
+G4791,Sweden,23.53,Online / mail order,SWE
+G4791,Türkiye,44.17,Online / mail order,TUR
+G47_FOOD,Albania,-4.23,"Food, drink, tobacco",ALB
+G47_FOOD,Austria,2.12,"Food, drink, tobacco",AUT
+G47_FOOD,Belgium,5.77,"Food, drink, tobacco",BEL
+G47_FOOD,Bosnia and Herzegovina,-9.95,"Food, drink, tobacco",BIH
+G47_FOOD,Bulgaria,-7.13,"Food, drink, tobacco",BGR
+G47_FOOD,Croatia,-6.15,"Food, drink, tobacco",HRV
+G47_FOOD,Cyprus,-0.11,"Food, drink, tobacco",CYP
+G47_FOOD,Czechia,-2.01,"Food, drink, tobacco",CZE
+G47_FOOD,Denmark,3.59,"Food, drink, tobacco",DNK
+G47_FOOD,Estonia,0.95,"Food, drink, tobacco",EST
+G47_FOOD,Finland,4.8,"Food, drink, tobacco",FIN
+G47_FOOD,France,2.95,"Food, drink, tobacco",FRA
+G47_FOOD,Germany,1.81,"Food, drink, tobacco",DEU
+G47_FOOD,Greece,4.97,"Food, drink, tobacco",GRC
+G47_FOOD,Hungary,-1.73,"Food, drink, tobacco",HUN
+G47_FOOD,Italy,0.54,"Food, drink, tobacco",ITA
+G47_FOOD,Latvia,-3.41,"Food, drink, tobacco",LVA
+G47_FOOD,Lithuania,2.93,"Food, drink, tobacco",LTU
+G47_FOOD,Luxembourg,3.85,"Food, drink, tobacco",LUX
+G47_FOOD,Malta,-13.29,"Food, drink, tobacco",MLT
+G47_FOOD,Montenegro,-9.91,"Food, drink, tobacco",MNE
+G47_FOOD,Netherlands,3.91,"Food, drink, tobacco",NLD
+G47_FOOD,North Macedonia,-3.62,"Food, drink, tobacco",MKD
+G47_FOOD,Norway,9.83,"Food, drink, tobacco",NOR
+G47_FOOD,Poland,-1.8,"Food, drink, tobacco",POL
+G47_FOOD,Portugal,-2.23,"Food, drink, tobacco",PRT
+G47_FOOD,Romania,-3.78,"Food, drink, tobacco",ROU
+G47_FOOD,Serbia,2.84,"Food, drink, tobacco",SRB
+G47_FOOD,Slovakia,-7.58,"Food, drink, tobacco",SVK
+G47_FOOD,Slovenia,3.99,"Food, drink, tobacco",SVN
+G47_FOOD,Spain,-0.38,"Food, drink, tobacco",ESP
+G47_FOOD,Switzerland,6.37,"Food, drink, tobacco",CHE
+G47_FOOD,Türkiye,4.88,"Food, drink, tobacco",TUR

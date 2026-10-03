@@ -1,0 +1,33 @@
+category,wave,factor,countries,spearman_rho,p_value
+Total retail,First lockdown,Excess deaths,33,-0.109,0.546
+Online / mail order,First lockdown,Excess deaths,19,0.088,0.721
+"Food, drink, tobacco",First lockdown,Excess deaths,33,0.212,0.237
+Non-food (incl. fuel),First lockdown,Excess deaths,23,-0.345,0.107
+Total retail,First lockdown,Rules strictness,31,-0.584,0.001
+Online / mail order,First lockdown,Rules strictness,19,-0.186,0.446
+"Food, drink, tobacco",First lockdown,Rules strictness,31,-0.24,0.194
+Non-food (incl. fuel),First lockdown,Rules strictness,23,-0.558,0.006
+Total retail,Summer 2020,Excess deaths,33,-0.607,0.0
+Online / mail order,Summer 2020,Excess deaths,19,-0.307,0.201
+"Food, drink, tobacco",Summer 2020,Excess deaths,33,-0.597,0.0
+Non-food (incl. fuel),Summer 2020,Excess deaths,23,-0.402,0.057
+Total retail,Summer 2020,Rules strictness,31,-0.002,0.99
+Online / mail order,Summer 2020,Rules strictness,19,0.314,0.19
+"Food, drink, tobacco",Summer 2020,Rules strictness,31,0.02,0.916
+Non-food (incl. fuel),Summer 2020,Rules strictness,23,0.123,0.578
+Total retail,Winter wave,Excess deaths,33,-0.513,0.002
+Online / mail order,Winter wave,Excess deaths,19,-0.151,0.538
+"Food, drink, tobacco",Winter wave,Excess deaths,33,-0.605,0.0
+Non-food (incl. fuel),Winter wave,Excess deaths,23,-0.338,0.115
+Total retail,Winter wave,Rules strictness,31,-0.009,0.961
+Online / mail order,Winter wave,Rules strictness,19,0.23,0.344
+"Food, drink, tobacco",Winter wave,Rules strictness,31,0.306,0.094
+Non-food (incl. fuel),Winter wave,Rules strictness,23,-0.456,0.029
+Total retail,Reopening 2021,Excess deaths,33,-0.195,0.278
+Online / mail order,Reopening 2021,Excess deaths,19,0.086,0.726
+"Food, drink, tobacco",Reopening 2021,Excess deaths,33,-0.36,0.04
+Non-food (incl. fuel),Reopening 2021,Excess deaths,23,-0.095,0.667
+Total retail,Reopening 2021,Rules strictness,31,-0.127,0.496
+Online / mail order,Reopening 2021,Rules strictness,19,-0.049,0.842
+"Food, drink, tobacco",Reopening 2021,Rules strictness,31,-0.019,0.919
+Non-food (incl. fuel),Reopening 2021,Rules strictness,23,-0.365,0.087

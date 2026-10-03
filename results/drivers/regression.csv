@@ -1,0 +1,17 @@
+category,factor,countries,coef_pp_per_SD,robust_se,p_value,r2,adj_r2
+Total retail,Excess deaths,31,-0.927,1.633,0.575,0.42,0.33
+Total retail,Online shopping 2019,31,3.304,1.408,0.027,0.42,0.33
+Total retail,Income (GDP per capita),31,-1.153,1.583,0.473,0.42,0.33
+Total retail,Rules strictness (stringency index),31,0.148,0.751,0.846,0.42,0.33
+Online / mail order,Excess deaths,19,-7.89,9.25,0.408,0.215,-0.009
+Online / mail order,Online shopping 2019,19,-2.188,16.277,0.895,0.215,-0.009
+Online / mail order,Income (GDP per capita),19,-6.933,19.64,0.729,0.215,-0.009
+Online / mail order,Rules strictness (stringency index),19,5.52,10.412,0.604,0.215,-0.009
+"Food, drink, tobacco",Excess deaths,31,-0.66,1.893,0.73,0.343,0.242
+"Food, drink, tobacco",Online shopping 2019,31,1.719,1.529,0.271,0.343,0.242
+"Food, drink, tobacco",Income (GDP per capita),31,0.899,1.231,0.472,0.343,0.242
+"Food, drink, tobacco",Rules strictness (stringency index),31,1.053,0.884,0.244,0.343,0.242
+Non-food (incl. fuel),Excess deaths,23,0.845,2.203,0.706,0.368,0.227
+Non-food (incl. fuel),Online shopping 2019,23,3.883,2.168,0.09,0.368,0.227
+Non-food (incl. fuel),Income (GDP per capita),23,-0.307,1.767,0.864,0.368,0.227
+Non-food (incl. fuel),Rules strictness (stringency index),23,-0.37,1.614,0.821,0.368,0.227

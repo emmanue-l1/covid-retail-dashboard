@@ -1,0 +1,10 @@
+adj,category,nace,ml_countries,ml_median_avg_gap_pct,ml_noise_floor_pct,ml_verdict,n_countries,stat_median_avg_gap_pct,stat_noise_floor_pct,stat_verdict,spearman_country_gaps_ml_vs_stat
+CAR,Non-food (incl. fuel),G47_NFOOD,23,-4.38,3.06,clear effect,23,-4.2,1.84,clear effect,0.93
+NSA,Total retail,G47,33,-1.99,3.85,within noise,33,-5.18,1.56,clear effect,0.79
+NSA,Online / mail order,G4791,19,20.83,7.77,clear effect,19,19.43,2.3,clear effect,0.78
+NSA,"Food, drink, tobacco",G47_FOOD,33,0.35,2.39,within noise,33,-1.45,1.95,within noise,0.9
+NSA,Non-food (incl. fuel),G47_NFOOD,6,-5.48,1.83,clear effect,6,-7.54,2.7,clear effect,0.94
+SCA,Total retail,G47,33,-3.27,1.29,clear effect,33,-2.99,1.96,clear effect,0.93
+SCA,Online / mail order,G4791,19,18.74,3.66,clear effect,19,21.7,4.71,clear effect,0.96
+SCA,"Food, drink, tobacco",G47_FOOD,33,0.44,1.74,within noise,33,0.54,1.88,within noise,0.99
+SCA,Non-food (incl. fuel),G47_NFOOD,6,-9.19,2.56,clear effect,6,-9.11,2.85,clear effect,0.83

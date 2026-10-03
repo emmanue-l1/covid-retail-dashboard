@@ -1,0 +1,109 @@
+nace,category,country,group,avg_gap_pct,First lockdown,Summer 2020,Winter wave,Reopening 2021
+G47,Total retail,Albania,Lowest gap (hit hardest),-9.2,-17.53,-6.25,-6.99,-6.05
+G47,Total retail,Austria,Middle,-1.85,-7.37,2.28,-3.02,0.73
+G47,Total retail,Belgium,Highest gap (least hit / gained),3.23,-2.4,5.23,4.52,5.57
+G47,Total retail,Bosnia and Herzegovina,Lowest gap (hit hardest),-11.88,-19.53,-15.8,-10.07,-2.14
+G47,Total retail,Bulgaria,Lowest gap (hit hardest),-12.71,-19.36,-12.38,-9.83,-9.28
+G47,Total retail,Croatia,Lowest gap (hit hardest),-7.12,-14.56,-9.62,-2.42,-1.88
+G47,Total retail,Cyprus,Middle,-3.19,-11.14,-2.95,-0.35,1.66
+G47,Total retail,Czechia,Lowest gap (hit hardest),-4.89,-7.07,-3.07,-8.03,-1.38
+G47,Total retail,Denmark,Highest gap (least hit / gained),5.54,2.4,6.33,6.09,7.35
+G47,Total retail,Estonia,Middle,-0.44,-6.14,-1.83,0.05,6.14
+G47,Total retail,Finland,Highest gap (least hit / gained),2.81,0.92,2.69,3.75,3.89
+G47,Total retail,France,Middle,-3.09,-14.09,0.8,-2.28,3.23
+G47,Total retail,Germany,Middle,0.64,-0.68,3.38,-1.34,1.18
+G47,Total retail,Greece,Middle,0.47,-8.53,0.41,-1.46,11.43
+G47,Total retail,Hungary,Lowest gap (hit hardest),-6.12,-7.45,-5.15,-6.71,-5.18
+G47,Total retail,Italy,Lowest gap (hit hardest),-7.5,-19.56,-2.81,-8.05,0.44
+G47,Total retail,Latvia,Lowest gap (hit hardest),-7.37,-5.5,-2.69,-11.49,-9.77
+G47,Total retail,Lithuania,Middle,-0.46,-8.79,1.12,-0.56,6.38
+G47,Total retail,Luxembourg,Lowest gap (hit hardest),-4.03,-5.43,0.31,-9.38,-1.61
+G47,Total retail,Malta,Lowest gap (hit hardest),-8.32,-15.09,-10.58,-5.97,-1.64
+G47,Total retail,Montenegro,Lowest gap (hit hardest),-12.09,-13.74,-21.07,-9.82,-3.73
+G47,Total retail,Netherlands,Middle,0.9,-1.21,2.72,-2.89,4.98
+G47,Total retail,North Macedonia,Lowest gap (hit hardest),-6.09,-12.24,-7.51,-4.11,-0.51
+G47,Total retail,Norway,Highest gap (least hit / gained),7.38,5.48,10.32,6.62,7.11
+G47,Total retail,Poland,Middle,-3.36,-8.59,-2.41,-4.55,2.12
+G47,Total retail,Portugal,Lowest gap (hit hardest),-10.95,-18.08,-7.64,-13.06,-5.01
+G47,Total retail,Romania,Lowest gap (hit hardest),-6.49,-12.91,-5.05,-3.68,-4.31
+G47,Total retail,Serbia,Middle,1.53,-6.03,0.99,2.8,8.38
+G47,Total retail,Slovakia,Lowest gap (hit hardest),-5.43,-11.11,-2.0,-7.56,-1.05
+G47,Total retail,Slovenia,Middle,-5.08,-13.53,-8.38,-4.56,6.17
+G47,Total retail,Spain,Lowest gap (hit hardest),-7.5,-17.79,-4.19,-5.27,-2.75
+G47,Total retail,Switzerland,Highest gap (least hit / gained),1.42,-4.34,2.85,3.28,3.89
+G47,Total retail,Türkiye,Middle,-1.33,-14.41,-0.01,2.21,6.87
+G4791,Online / mail order,Austria,Middle,21.62,20.23,19.2,28.37,18.68
+G4791,Online / mail order,Belgium,Middle,20.21,24.84,20.4,26.2,9.41
+G4791,Online / mail order,Bulgaria,Highest gap (least hit / gained),26.28,5.41,26.92,36.47,36.34
+G4791,Online / mail order,Croatia,Lowest gap (hit hardest),4.84,1.81,6.91,6.06,4.57
+G4791,Online / mail order,Czechia,Lowest gap (hit hardest),11.47,14.75,10.03,16.29,4.8
+G4791,Online / mail order,Finland,Middle,23.97,18.28,18.39,27.47,31.75
+G4791,Online / mail order,France,Lowest gap (hit hardest),14.44,8.79,8.08,25.95,14.92
+G4791,Online / mail order,Germany,Middle,18.97,17.26,16.56,27.2,14.88
+G4791,Online / mail order,Greece,Highest gap (least hit / gained),97.84,48.15,72.59,150.93,119.68
+G4791,Online / mail order,Italy,Highest gap (least hit / gained),27.48,11.76,31.6,36.37,30.17
+G4791,Online / mail order,Lithuania,Highest gap (least hit / gained),34.7,24.96,25.72,50.74,37.38
+G4791,Online / mail order,Netherlands,Middle,18.49,15.63,13.28,27.33,17.72
+G4791,Online / mail order,Norway,Highest gap (least hit / gained),34.55,28.7,22.66,50.23,36.63
+G4791,Online / mail order,Poland,Lowest gap (hit hardest),9.84,10.9,2.55,12.9,13.01
+G4791,Online / mail order,Portugal,Lowest gap (hit hardest),12.72,0.14,4.09,33.94,12.71
+G4791,Online / mail order,Romania,Lowest gap (hit hardest),10.41,16.93,15.0,10.7,-0.99
+G4791,Online / mail order,Spain,Middle,27.44,32.92,22.09,31.8,22.95
+G4791,Online / mail order,Sweden,Middle,22.82,16.74,22.49,27.88,24.17
+G4791,Online / mail order,Türkiye,Highest gap (least hit / gained),40.93,24.59,36.67,46.5,55.96
+G47_FOOD,"Food, drink, tobacco",Albania,Lowest gap (hit hardest),-4.1,-2.65,-4.45,-4.81,-4.47
+G47_FOOD,"Food, drink, tobacco",Austria,Highest gap (least hit / gained),2.41,3.46,1.52,5.34,-0.66
+G47_FOOD,"Food, drink, tobacco",Belgium,Highest gap (least hit / gained),6.2,9.21,5.52,6.31,3.76
+G47_FOOD,"Food, drink, tobacco",Bosnia and Herzegovina,Lowest gap (hit hardest),-10.6,-11.79,-12.98,-10.62,-7.02
+G47_FOOD,"Food, drink, tobacco",Bulgaria,Lowest gap (hit hardest),-7.24,-6.51,-8.89,-6.59,-6.98
+G47_FOOD,"Food, drink, tobacco",Croatia,Lowest gap (hit hardest),-7.06,-9.56,-12.02,-2.18,-4.49
+G47_FOOD,"Food, drink, tobacco",Cyprus,Middle,0.12,2.39,-2.75,3.85,-3.0
+G47_FOOD,"Food, drink, tobacco",Czechia,Middle,-1.96,-1.89,-1.46,-2.63,-1.87
+G47_FOOD,"Food, drink, tobacco",Denmark,Highest gap (least hit / gained),3.69,3.68,3.41,5.4,2.27
+G47_FOOD,"Food, drink, tobacco",Estonia,Middle,0.46,-1.36,-0.77,1.25,2.73
+G47_FOOD,"Food, drink, tobacco",Finland,Highest gap (least hit / gained),4.87,5.35,4.56,5.37,4.21
+G47_FOOD,"Food, drink, tobacco",France,Highest gap (least hit / gained),2.59,0.38,2.59,3.05,4.33
+G47_FOOD,"Food, drink, tobacco",Germany,Highest gap (least hit / gained),2.41,5.07,2.36,3.86,-1.64
+G47_FOOD,"Food, drink, tobacco",Greece,Highest gap (least hit / gained),4.17,2.74,-0.45,7.45,6.94
+G47_FOOD,"Food, drink, tobacco",Hungary,Middle,-1.69,-1.01,-2.19,-1.67,-1.9
+G47_FOOD,"Food, drink, tobacco",Italy,Middle,0.35,-0.45,-0.32,1.24,0.95
+G47_FOOD,"Food, drink, tobacco",Latvia,Middle,-2.63,-0.35,0.24,-4.43,-5.99
+G47_FOOD,"Food, drink, tobacco",Lithuania,Highest gap (least hit / gained),2.47,-0.8,1.5,5.86,3.32
+G47_FOOD,"Food, drink, tobacco",Luxembourg,Highest gap (least hit / gained),3.41,-0.55,4.51,4.24,5.43
+G47_FOOD,"Food, drink, tobacco",Malta,Lowest gap (hit hardest),-14.12,-15.71,-17.78,-12.76,-10.23
+G47_FOOD,"Food, drink, tobacco",Montenegro,Lowest gap (hit hardest),-10.63,-4.3,-22.33,-7.84,-8.06
+G47_FOOD,"Food, drink, tobacco",Netherlands,Highest gap (least hit / gained),4.06,4.48,3.28,6.45,2.03
+G47_FOOD,"Food, drink, tobacco",North Macedonia,Lowest gap (hit hardest),-4.16,-6.01,-5.63,-3.52,-1.49
+G47_FOOD,"Food, drink, tobacco",Norway,Highest gap (least hit / gained),10.67,11.26,14.18,11.74,5.5
+G47_FOOD,"Food, drink, tobacco",Poland,Middle,-1.72,-3.01,0.6,-2.88,-1.58
+G47_FOOD,"Food, drink, tobacco",Portugal,Lowest gap (hit hardest),-2.64,-4.53,-3.58,-1.48,-0.96
+G47_FOOD,"Food, drink, tobacco",Romania,Lowest gap (hit hardest),-3.93,-4.65,-4.32,-3.33,-3.42
+G47_FOOD,"Food, drink, tobacco",Serbia,Highest gap (least hit / gained),2.08,-1.62,0.65,4.07,5.24
+G47_FOOD,"Food, drink, tobacco",Slovakia,Lowest gap (hit hardest),-7.12,-5.01,-6.28,-7.92,-9.25
+G47_FOOD,"Food, drink, tobacco",Slovenia,Highest gap (least hit / gained),2.84,-1.41,-1.03,6.46,7.35
+G47_FOOD,"Food, drink, tobacco",Spain,Middle,-0.14,1.65,-0.88,0.41,-1.75
+G47_FOOD,"Food, drink, tobacco",Switzerland,Highest gap (least hit / gained),6.58,6.89,5.57,10.35,3.52
+G47_FOOD,"Food, drink, tobacco",Türkiye,Highest gap (least hit / gained),4.47,2.75,2.94,6.46,5.72
+G47_NFOOD,Non-food (incl. fuel),Austria,Middle,-4.88,-14.03,2.84,-9.6,1.26
+G47_NFOOD,Non-food (incl. fuel),Belgium,Highest gap (least hit / gained),0.31,-10.49,3.62,2.33,5.79
+G47_NFOOD,Non-food (incl. fuel),Bulgaria,Lowest gap (hit hardest),-8.46,-22.72,-5.34,-4.61,-1.15
+G47_NFOOD,Non-food (incl. fuel),Croatia,Lowest gap (hit hardest),-11.48,-22.12,-10.96,-7.59,-5.24
+G47_NFOOD,Non-food (incl. fuel),Cyprus,Lowest gap (hit hardest),-15.64,-30.93,-11.07,-11.95,-8.61
+G47_NFOOD,Non-food (incl. fuel),Czechia,Middle,-6.72,-10.22,-3.86,-10.53,-2.27
+G47_NFOOD,Non-food (incl. fuel),Denmark,Highest gap (least hit / gained),4.98,-2.39,7.44,2.45,12.42
+G47_NFOOD,Non-food (incl. fuel),Estonia,Highest gap (least hit / gained),0.3,-8.21,-1.06,-0.04,10.49
+G47_NFOOD,Non-food (incl. fuel),France,Highest gap (least hit / gained),-5.25,-21.55,0.36,-3.54,3.72
+G47_NFOOD,Non-food (incl. fuel),Germany,Highest gap (least hit / gained),0.06,-3.73,4.91,-4.65,3.71
+G47_NFOOD,Non-food (incl. fuel),Greece,Highest gap (least hit / gained),-1.84,-16.28,4.7,-8.35,12.56
+G47_NFOOD,Non-food (incl. fuel),Italy,Lowest gap (hit hardest),-13.8,-34.19,-4.69,-15.7,-0.63
+G47_NFOOD,Non-food (incl. fuel),Latvia,Middle,-8.63,-8.01,-2.31,-14.47,-9.72
+G47_NFOOD,Non-food (incl. fuel),Lithuania,Highest gap (least hit / gained),-2.73,-12.94,0.24,-5.67,7.45
+G47_NFOOD,Non-food (incl. fuel),Luxembourg,Highest gap (least hit / gained),-4.63,-25.12,3.47,-4.2,7.32
+G47_NFOOD,Non-food (incl. fuel),Malta,Lowest gap (hit hardest),-11.33,-20.95,-13.96,-7.88,-2.53
+G47_NFOOD,Non-food (incl. fuel),Portugal,Lowest gap (hit hardest),-15.24,-25.28,-8.47,-19.77,-7.46
+G47_NFOOD,Non-food (incl. fuel),Romania,Lowest gap (hit hardest),-9.82,-19.59,-7.09,-6.04,-6.56
+G47_NFOOD,Non-food (incl. fuel),Slovakia,Middle,-4.33,-9.54,3.17,-10.71,-0.23
+G47_NFOOD,Non-food (incl. fuel),Slovenia,Lowest gap (hit hardest),-10.24,-18.86,-13.72,-15.46,7.09
+G47_NFOOD,Non-food (incl. fuel),Spain,Lowest gap (hit hardest),-14.87,-33.18,-6.65,-10.85,-8.79
+G47_NFOOD,Non-food (incl. fuel),Sweden,Highest gap (least hit / gained),-0.06,-4.14,-1.09,0.67,4.33
+G47_NFOOD,Non-food (incl. fuel),Türkiye,Highest gap (least hit / gained),-4.96,-24.05,-0.19,-2.72,7.11

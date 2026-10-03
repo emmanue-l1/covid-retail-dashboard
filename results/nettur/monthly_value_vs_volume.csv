@@ -1,0 +1,625 @@
+adj,nace,month,median_gap_pct_volume,median_gap_pct_value,price_effect_pp,category
+NSA,G47,2020-03-01,-8.45,-8.64,-0.19,Total retail
+NSA,G47,2020-04-01,-19.6,-21.78,-2.18,Total retail
+NSA,G47,2020-05-01,-9.73,-11.65,-1.92,Total retail
+NSA,G47,2020-06-01,-4.2,-5.44,-1.24,Total retail
+NSA,G47,2020-07-01,-2.68,-4.2,-1.52,Total retail
+NSA,G47,2020-08-01,-2.85,-5.83,-2.98,Total retail
+NSA,G47,2020-09-01,-1.02,-4.21,-3.19,Total retail
+NSA,G47,2020-10-01,-3.79,-4.41,-0.62,Total retail
+NSA,G47,2020-11-01,-5.49,-8.6,-3.11,Total retail
+NSA,G47,2020-12-01,-4.12,-5.58,-1.46,Total retail
+NSA,G47,2021-01-01,-9.68,-11.23,-1.55,Total retail
+NSA,G47,2021-02-01,-7.09,-6.92,0.17,Total retail
+NSA,G47,2021-03-01,-4.47,-4.07,0.4,Total retail
+NSA,G47,2021-04-01,-4.94,-4.96,-0.02,Total retail
+NSA,G47,2021-05-01,-4.45,-4.33,0.12,Total retail
+NSA,G47,2021-06-01,-1.37,-1.59,-0.22,Total retail
+NSA,G47,2021-07-01,0.82,0.13,-0.69,Total retail
+NSA,G47,2021-08-01,-0.83,-0.54,0.29,Total retail
+NSA,G47,2021-09-01,0.92,0.92,0.0,Total retail
+NSA,G47,2021-10-01,-1.58,1.56,3.14,Total retail
+NSA,G47,2021-11-01,-1.12,1.86,2.98,Total retail
+NSA,G47,2021-12-01,-2.34,0.56,2.9,Total retail
+NSA,G47,2022-01-01,-5.18,-0.78,4.4,Total retail
+NSA,G47,2022-02-01,-2.51,2.45,4.96,Total retail
+NSA,G47,2022-03-01,0.68,6.63,5.95,Total retail
+NSA,G47,2022-04-01,-2.05,6.33,8.38,Total retail
+NSA,G47,2022-05-01,-2.01,5.69,7.7,Total retail
+NSA,G47,2022-06-01,-3.11,6.84,9.95,Total retail
+NSA,G47,2022-07-01,-4.54,5.18,9.72,Total retail
+NSA,G47,2022-08-01,-3.54,6.62,10.16,Total retail
+NSA,G47,2022-09-01,-1.83,8.72,10.55,Total retail
+NSA,G47,2022-10-01,-4.88,5.31,10.19,Total retail
+NSA,G47,2022-11-01,-2.45,7.76,10.21,Total retail
+NSA,G47,2022-12-01,-5.95,6.03,11.98,Total retail
+NSA,G47,2023-01-01,-6.8,5.68,12.48,Total retail
+NSA,G47,2023-02-01,-7.42,6.32,13.74,Total retail
+NSA,G47,2023-03-01,-4.5,8.45,12.95,Total retail
+NSA,G47,2023-04-01,-5.98,6.8,12.78,Total retail
+NSA,G47,2023-05-01,-5.87,6.86,12.73,Total retail
+NSA,G47,2023-06-01,-5.16,9.29,14.45,Total retail
+NSA,G47,2023-07-01,-8.86,4.99,13.85,Total retail
+NSA,G47,2023-08-01,-8.24,6.31,14.55,Total retail
+NSA,G47,2023-09-01,-7.19,8.4,15.59,Total retail
+NSA,G47,2023-10-01,-9.02,5.09,14.11,Total retail
+NSA,G47,2023-11-01,-5.85,8.16,14.01,Total retail
+NSA,G47,2023-12-01,-9.49,4.59,14.08,Total retail
+NSA,G47,2024-01-01,-9.65,5.48,15.13,Total retail
+NSA,G47,2024-02-01,-6.69,8.33,15.02,Total retail
+NSA,G47,2024-03-01,-8.0,7.21,15.21,Total retail
+NSA,G47,2024-04-01,-7.23,5.44,12.67,Total retail
+NSA,G47,2024-05-01,-7.18,5.47,12.65,Total retail
+NSA,G47,2024-06-01,-9.69,3.03,12.72,Total retail
+NSA,G47,2024-07-01,-8.24,6.35,14.59,Total retail
+NSA,G47,2024-08-01,-9.08,7.8,16.88,Total retail
+NSA,G47,2024-09-01,-9.25,5.02,14.27,Total retail
+NSA,G47,2024-10-01,-8.27,5.83,14.1,Total retail
+NSA,G47,2024-11-01,-6.21,7.84,14.05,Total retail
+NSA,G47,2024-12-01,-9.26,3.83,13.09,Total retail
+NSA,G47,2025-01-01,-10.03,5.5,15.53,Total retail
+NSA,G47,2025-02-01,-9.32,5.74,15.06,Total retail
+NSA,G47,2025-03-01,-9.53,4.43,13.96,Total retail
+NSA,G47,2025-04-01,-8.15,6.01,14.16,Total retail
+NSA,G47,2025-05-01,-8.77,5.99,14.76,Total retail
+NSA,G47,2025-06-01,-9.31,4.63,13.94,Total retail
+NSA,G47,2025-07-01,-8.84,6.69,15.53,Total retail
+NSA,G47,2025-08-01,-11.73,6.08,17.81,Total retail
+NSA,G47,2025-09-01,-9.97,6.5,16.47,Total retail
+NSA,G47,2025-10-01,-9.13,6.74,15.87,Total retail
+NSA,G47,2025-11-01,-9.14,5.28,14.42,Total retail
+NSA,G47,2025-12-01,-9.95,4.02,13.97,Total retail
+NSA,G47,2026-01-01,-10.4,4.59,14.99,Total retail
+NSA,G47,2026-02-01,-11.29,3.73,15.02,Total retail
+NSA,G47,2026-03-01,-9.35,6.24,15.59,Total retail
+NSA,G47,2026-04-01,-10.34,6.47,16.81,Total retail
+NSA,G47,2026-05-01,-10.43,5.14,15.57,Total retail
+NSA,G47,2026-06-01,-9.44,8.21,17.65,Total retail
+NSA,G47,2026-07-01,-10.56,6.6,17.16,Total retail
+NSA,G47,2026-08-01,-12.15,6.44,18.59,Total retail
+NSA,G4791,2020-03-01,5.54,5.67,0.13,Online / mail order
+NSA,G4791,2020-04-01,25.75,24.24,-1.51,Online / mail order
+NSA,G4791,2020-05-01,21.4,20.37,-1.03,Online / mail order
+NSA,G4791,2020-06-01,25.43,25.67,0.24,Online / mail order
+NSA,G4791,2020-07-01,9.65,10.3,0.65,Online / mail order
+NSA,G4791,2020-08-01,16.33,17.63,1.3,Online / mail order
+NSA,G4791,2020-09-01,13.69,14.96,1.27,Online / mail order
+NSA,G4791,2020-10-01,16.47,18.46,1.99,Online / mail order
+NSA,G4791,2020-11-01,28.73,28.06,-0.67,Online / mail order
+NSA,G4791,2020-12-01,27.91,28.27,0.36,Online / mail order
+NSA,G4791,2021-01-01,23.48,23.28,-0.2,Online / mail order
+NSA,G4791,2021-02-01,29.3,30.92,1.62,Online / mail order
+NSA,G4791,2021-03-01,35.32,35.26,-0.06,Online / mail order
+NSA,G4791,2021-04-01,39.9,39.25,-0.65,Online / mail order
+NSA,G4791,2021-05-01,25.74,25.22,-0.52,Online / mail order
+NSA,G4791,2021-06-01,28.91,29.52,0.61,Online / mail order
+NSA,G4791,2021-07-01,12.98,13.64,0.66,Online / mail order
+NSA,G4791,2021-08-01,21.79,25.26,3.47,Online / mail order
+NSA,G4791,2021-09-01,15.19,19.05,3.86,Online / mail order
+NSA,G4791,2021-10-01,8.53,10.76,2.23,Online / mail order
+NSA,G4791,2021-11-01,25.76,28.41,2.65,Online / mail order
+NSA,G4791,2021-12-01,11.84,14.13,2.29,Online / mail order
+NSA,G4791,2022-01-01,13.99,19.12,5.13,Online / mail order
+NSA,G4791,2022-02-01,12.34,16.84,4.5,Online / mail order
+NSA,G4791,2022-03-01,15.68,20.5,4.82,Online / mail order
+NSA,G4791,2022-04-01,8.12,16.64,8.52,Online / mail order
+NSA,G4791,2022-05-01,8.46,12.85,4.39,Online / mail order
+NSA,G4791,2022-06-01,8.43,18.91,10.48,Online / mail order
+NSA,G4791,2022-07-01,-1.21,6.35,7.56,Online / mail order
+NSA,G4791,2022-08-01,10.31,15.85,5.54,Online / mail order
+NSA,G4791,2022-09-01,6.25,13.52,7.27,Online / mail order
+NSA,G4791,2022-10-01,0.83,7.51,6.68,Online / mail order
+NSA,G4791,2022-11-01,14.9,20.01,5.11,Online / mail order
+NSA,G4791,2022-12-01,0.02,7.52,7.5,Online / mail order
+NSA,G4791,2023-01-01,-1.39,13.18,14.57,Online / mail order
+NSA,G4791,2023-02-01,-3.97,12.19,16.16,Online / mail order
+NSA,G4791,2023-03-01,4.22,17.69,13.47,Online / mail order
+NSA,G4791,2023-04-01,-3.65,12.11,15.76,Online / mail order
+NSA,G4791,2023-05-01,-2.47,12.9,15.37,Online / mail order
+NSA,G4791,2023-06-01,-2.49,16.05,18.54,Online / mail order
+NSA,G4791,2023-07-01,-8.99,5.1,14.09,Online / mail order
+NSA,G4791,2023-08-01,-1.49,13.1,14.59,Online / mail order
+NSA,G4791,2023-09-01,-8.21,5.75,13.96,Online / mail order
+NSA,G4791,2023-10-01,-6.6,8.82,15.42,Online / mail order
+NSA,G4791,2023-11-01,2.54,18.1,15.56,Online / mail order
+NSA,G4791,2023-12-01,-16.6,-0.25,16.35,Online / mail order
+NSA,G4791,2024-01-01,-7.72,4.06,11.78,Online / mail order
+NSA,G4791,2024-02-01,-8.7,2.5,11.2,Online / mail order
+NSA,G4791,2024-03-01,-9.44,-0.05,9.39,Online / mail order
+NSA,G4791,2024-04-01,-0.18,11.09,11.27,Online / mail order
+NSA,G4791,2024-05-01,-11.83,2.85,14.68,Online / mail order
+NSA,G4791,2024-06-01,-10.53,1.46,11.99,Online / mail order
+NSA,G4791,2024-07-01,-11.03,-0.08,10.95,Online / mail order
+NSA,G4791,2024-08-01,-11.63,-0.73,10.9,Online / mail order
+NSA,G4791,2024-09-01,-8.02,-1.14,6.88,Online / mail order
+NSA,G4791,2024-10-01,-10.74,2.07,12.81,Online / mail order
+NSA,G4791,2024-11-01,-10.59,6.91,17.5,Online / mail order
+NSA,G4791,2024-12-01,-9.96,1.01,10.97,Online / mail order
+NSA,G4791,2025-01-01,-13.42,-1.01,12.41,Online / mail order
+NSA,G4791,2025-02-01,-13.27,-4.17,9.1,Online / mail order
+NSA,G4791,2025-03-01,-10.7,0.18,10.88,Online / mail order
+NSA,G4791,2025-04-01,-10.89,1.29,12.18,Online / mail order
+NSA,G4791,2025-05-01,-14.83,-1.24,13.59,Online / mail order
+NSA,G4791,2025-06-01,-12.4,2.52,14.92,Online / mail order
+NSA,G4791,2025-07-01,-12.98,1.85,14.83,Online / mail order
+NSA,G4791,2025-08-01,-16.09,0.21,16.3,Online / mail order
+NSA,G4791,2025-09-01,-10.46,0.01,10.47,Online / mail order
+NSA,G4791,2025-10-01,-16.57,-1.91,14.66,Online / mail order
+NSA,G4791,2025-11-01,-15.34,5.0,20.34,Online / mail order
+NSA,G4791,2025-12-01,-11.37,0.61,11.98,Online / mail order
+NSA,G4791,2026-01-01,-16.73,-5.34,11.39,Online / mail order
+NSA,G4791,2026-02-01,-18.29,-8.29,10.0,Online / mail order
+NSA,G4791,2026-03-01,-16.48,-0.68,15.8,Online / mail order
+NSA,G4791,2026-04-01,-15.8,-3.72,12.08,Online / mail order
+NSA,G4791,2026-05-01,-21.09,-6.51,14.58,Online / mail order
+NSA,G4791,2026-06-01,-15.25,7.67,22.92,Online / mail order
+NSA,G4791,2026-07-01,-22.97,-6.33,16.64,Online / mail order
+NSA,G4791,2026-08-01,-18.7,-4.37,14.33,Online / mail order
+NSA,G47_FOOD,2020-03-01,3.45,4.45,1.0,"Food, drink, tobacco"
+NSA,G47_FOOD,2020-04-01,-3.01,-2.62,0.39,"Food, drink, tobacco"
+NSA,G47_FOOD,2020-05-01,-2.52,-3.89,-1.37,"Food, drink, tobacco"
+NSA,G47_FOOD,2020-06-01,-2.12,-1.3,0.82,"Food, drink, tobacco"
+NSA,G47_FOOD,2020-07-01,-1.86,-1.02,0.84,"Food, drink, tobacco"
+NSA,G47_FOOD,2020-08-01,-3.81,-4.02,-0.21,"Food, drink, tobacco"
+NSA,G47_FOOD,2020-09-01,-2.47,-2.07,0.4,"Food, drink, tobacco"
+NSA,G47_FOOD,2020-10-01,0.86,0.28,-0.58,"Food, drink, tobacco"
+NSA,G47_FOOD,2020-11-01,-1.46,-1.26,0.2,"Food, drink, tobacco"
+NSA,G47_FOOD,2020-12-01,0.61,-0.67,-1.28,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-01-01,0.63,-0.54,-1.17,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-02-01,-0.61,-3.0,-2.39,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-03-01,3.31,0.89,-2.42,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-04-01,2.5,1.56,-0.94,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-05-01,-2.94,-3.75,-0.81,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-06-01,-0.14,-2.85,-2.71,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-07-01,0.27,-1.16,-1.43,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-08-01,-4.97,-4.41,0.56,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-09-01,-3.6,-1.48,2.12,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-10-01,-1.42,-1.06,0.36,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-11-01,-1.64,-0.31,1.33,"Food, drink, tobacco"
+NSA,G47_FOOD,2021-12-01,-0.93,1.14,2.07,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-01-01,-1.52,0.17,1.69,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-02-01,-4.02,-0.19,3.83,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-03-01,-2.15,2.2,4.35,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-04-01,-0.23,4.61,4.84,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-05-01,-6.04,1.53,7.57,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-06-01,-5.15,2.93,8.08,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-07-01,-5.1,4.03,9.13,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-08-01,-6.75,3.6,10.35,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-09-01,-5.04,5.76,10.8,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-10-01,-6.38,5.37,11.75,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-11-01,-6.92,6.67,13.59,"Food, drink, tobacco"
+NSA,G47_FOOD,2022-12-01,-7.28,6.52,13.8,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-01-01,-7.09,7.94,15.03,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-02-01,-8.34,7.95,16.29,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-03-01,-7.42,9.49,16.91,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-04-01,-7.58,9.28,16.86,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-05-01,-7.72,9.08,16.8,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-06-01,-7.25,11.09,18.34,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-07-01,-9.08,8.32,17.4,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-08-01,-8.47,7.91,16.38,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-09-01,-5.47,11.75,17.22,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-10-01,-8.97,7.94,16.91,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-11-01,-7.95,9.01,16.96,"Food, drink, tobacco"
+NSA,G47_FOOD,2023-12-01,-8.17,7.26,15.43,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-01-01,-8.64,9.02,17.66,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-02-01,-6.35,10.99,17.34,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-03-01,-5.09,12.41,17.5,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-04-01,-9.91,6.7,16.61,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-05-01,-6.82,10.14,16.96,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-06-01,-8.34,7.76,16.1,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-07-01,-8.38,9.74,18.12,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-08-01,-6.74,10.74,17.48,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-09-01,-8.41,8.63,17.04,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-10-01,-7.42,10.42,17.84,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-11-01,-6.33,11.62,17.95,"Food, drink, tobacco"
+NSA,G47_FOOD,2024-12-01,-10.05,8.31,18.36,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-01-01,-7.13,12.65,19.78,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-02-01,-8.95,8.08,17.03,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-03-01,-9.44,8.23,17.67,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-04-01,-5.59,13.06,18.65,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-05-01,-6.66,12.43,19.09,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-06-01,-8.85,11.44,20.29,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-07-01,-9.55,12.33,21.88,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-08-01,-8.74,11.24,19.98,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-09-01,-8.49,10.45,18.94,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-10-01,-6.74,13.22,19.96,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-11-01,-7.86,8.19,16.05,"Food, drink, tobacco"
+NSA,G47_FOOD,2025-12-01,-9.56,10.29,19.85,"Food, drink, tobacco"
+NSA,G47_FOOD,2026-01-01,-5.9,14.28,20.18,"Food, drink, tobacco"
+NSA,G47_FOOD,2026-02-01,-9.07,9.7,18.77,"Food, drink, tobacco"
+NSA,G47_FOOD,2026-03-01,-7.18,11.44,18.62,"Food, drink, tobacco"
+NSA,G47_FOOD,2026-04-01,-8.55,11.49,20.04,"Food, drink, tobacco"
+NSA,G47_FOOD,2026-05-01,-7.43,10.82,18.25,"Food, drink, tobacco"
+NSA,G47_FOOD,2026-06-01,-8.99,9.83,18.82,"Food, drink, tobacco"
+NSA,G47_FOOD,2026-07-01,-9.32,11.38,20.7,"Food, drink, tobacco"
+NSA,G47_FOOD,2026-08-01,-9.73,7.81,17.54,"Food, drink, tobacco"
+NSA,G47_NFOOD,2020-03-01,-18.06,-19.67,-1.61,Non-food (incl. fuel)
+NSA,G47_NFOOD,2020-04-01,-34.01,-36.69,-2.68,Non-food (incl. fuel)
+NSA,G47_NFOOD,2020-05-01,-20.21,-23.89,-3.68,Non-food (incl. fuel)
+NSA,G47_NFOOD,2020-06-01,-7.2,-9.43,-2.23,Non-food (incl. fuel)
+NSA,G47_NFOOD,2020-07-01,-5.53,-8.49,-2.96,Non-food (incl. fuel)
+NSA,G47_NFOOD,2020-08-01,-5.12,-9.44,-4.32,Non-food (incl. fuel)
+NSA,G47_NFOOD,2020-09-01,-1.43,-6.32,-4.89,Non-food (incl. fuel)
+NSA,G47_NFOOD,2020-10-01,-0.88,-6.01,-5.13,Non-food (incl. fuel)
+NSA,G47_NFOOD,2020-11-01,-1.36,-5.31,-3.95,Non-food (incl. fuel)
+NSA,G47_NFOOD,2020-12-01,-11.24,-12.31,-1.07,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-01-01,-14.87,-15.49,-0.62,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-02-01,-8.72,-8.8,-0.08,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-03-01,-5.61,-6.72,-1.11,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-04-01,-8.05,-7.4,0.65,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-05-01,-8.71,-8.81,-0.1,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-06-01,-0.79,-2.27,-1.48,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-07-01,-3.56,-2.97,0.59,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-08-01,-2.41,-1.18,1.23,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-09-01,-1.77,-0.32,1.45,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-10-01,-3.91,-0.85,3.06,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-11-01,-0.16,3.94,4.1,Non-food (incl. fuel)
+NSA,G47_NFOOD,2021-12-01,-4.68,0.33,5.01,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-01-01,-9.16,-0.04,9.12,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-02-01,-5.6,2.61,8.21,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-03-01,-1.95,9.76,11.71,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-04-01,-3.44,6.02,9.46,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-05-01,-6.15,6.14,12.29,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-06-01,-5.36,7.94,13.3,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-07-01,-5.03,8.58,13.61,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-08-01,-4.86,5.78,10.64,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-09-01,-2.53,6.03,8.56,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-10-01,-7.06,3.57,10.63,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-11-01,-4.12,7.69,11.81,Non-food (incl. fuel)
+NSA,G47_NFOOD,2022-12-01,-8.47,1.23,9.7,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-01-01,-7.42,3.73,11.15,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-02-01,-7.57,5.42,12.99,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-03-01,-5.24,5.61,10.85,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-04-01,-8.89,2.71,11.6,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-05-01,-7.26,4.54,11.8,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-06-01,-6.94,7.67,14.61,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-07-01,-9.4,5.38,14.78,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-08-01,-9.8,6.33,16.13,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-09-01,-8.47,7.15,15.62,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-10-01,-8.62,6.81,15.43,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-11-01,-2.07,12.62,14.69,Non-food (incl. fuel)
+NSA,G47_NFOOD,2023-12-01,-11.59,8.97,20.56,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-01-01,-11.78,3.69,15.47,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-02-01,-9.28,8.18,17.46,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-03-01,-11.95,4.16,16.11,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-04-01,-11.77,3.93,15.7,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-05-01,-11.12,5.01,16.13,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-06-01,-12.69,1.76,14.45,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-07-01,-11.26,4.26,15.52,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-08-01,-12.53,1.84,14.37,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-09-01,-10.35,3.63,13.98,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-10-01,-11.04,3.52,14.56,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-11-01,-9.05,5.87,14.92,Non-food (incl. fuel)
+NSA,G47_NFOOD,2024-12-01,-11.55,3.32,14.87,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-01-01,-11.9,3.89,15.79,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-02-01,-12.67,3.82,16.49,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-03-01,-12.75,1.32,14.07,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-04-01,-12.75,1.71,14.46,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-05-01,-11.26,2.45,13.71,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-06-01,-9.39,4.87,14.26,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-07-01,-11.29,3.1,14.39,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-08-01,-13.44,0.13,13.57,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-09-01,-8.8,5.38,14.18,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-10-01,-10.41,3.98,14.39,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-11-01,-9.14,5.37,14.51,Non-food (incl. fuel)
+NSA,G47_NFOOD,2025-12-01,-11.51,2.67,14.18,Non-food (incl. fuel)
+NSA,G47_NFOOD,2026-01-01,-13.25,0.47,13.72,Non-food (incl. fuel)
+NSA,G47_NFOOD,2026-02-01,-14.95,-0.13,14.82,Non-food (incl. fuel)
+NSA,G47_NFOOD,2026-03-01,-12.18,6.15,18.33,Non-food (incl. fuel)
+NSA,G47_NFOOD,2026-04-01,-15.34,4.41,19.75,Non-food (incl. fuel)
+NSA,G47_NFOOD,2026-05-01,-15.84,2.65,18.49,Non-food (incl. fuel)
+NSA,G47_NFOOD,2026-06-01,-13.35,4.5,17.85,Non-food (incl. fuel)
+NSA,G47_NFOOD,2026-07-01,-13.22,4.87,18.09,Non-food (incl. fuel)
+NSA,G47_NFOOD,2026-08-01,-15.65,3.14,18.79,Non-food (incl. fuel)
+SCA,G47,2020-03-01,-6.17,-7.91,-1.74,Total retail
+SCA,G47,2020-04-01,-19.4,-23.06,-3.66,Total retail
+SCA,G47,2020-05-01,-7.25,-9.84,-2.59,Total retail
+SCA,G47,2020-06-01,-3.41,-5.61,-2.2,Total retail
+SCA,G47,2020-07-01,-2.85,-4.34,-1.49,Total retail
+SCA,G47,2020-08-01,-1.82,-3.59,-1.77,Total retail
+SCA,G47,2020-09-01,-2.28,-4.16,-1.88,Total retail
+SCA,G47,2020-10-01,-2.47,-4.64,-2.17,Total retail
+SCA,G47,2020-11-01,-4.22,-6.64,-2.42,Total retail
+SCA,G47,2020-12-01,-3.5,-5.64,-2.14,Total retail
+SCA,G47,2021-01-01,-6.39,-8.92,-2.53,Total retail
+SCA,G47,2021-02-01,-4.48,-4.43,0.05,Total retail
+SCA,G47,2021-03-01,-2.22,-2.98,-0.76,Total retail
+SCA,G47,2021-04-01,-2.64,-3.37,-0.73,Total retail
+SCA,G47,2021-05-01,-0.22,0.15,0.37,Total retail
+SCA,G47,2021-06-01,1.42,0.61,-0.81,Total retail
+SCA,G47,2021-07-01,1.23,1.72,0.49,Total retail
+SCA,G47,2021-08-01,0.96,2.06,1.1,Total retail
+SCA,G47,2021-09-01,0.61,1.6,0.99,Total retail
+SCA,G47,2021-10-01,1.13,3.55,2.42,Total retail
+SCA,G47,2021-11-01,0.96,4.32,3.36,Total retail
+SCA,G47,2021-12-01,0.03,2.55,2.52,Total retail
+SCA,G47,2022-01-01,0.26,3.67,3.41,Total retail
+SCA,G47,2022-02-01,0.9,5.3,4.4,Total retail
+SCA,G47,2022-03-01,2.87,7.43,4.56,Total retail
+SCA,G47,2022-04-01,0.91,7.19,6.28,Total retail
+SCA,G47,2022-05-01,0.81,9.52,8.71,Total retail
+SCA,G47,2022-06-01,-0.05,9.75,9.8,Total retail
+SCA,G47,2022-07-01,-1.05,9.36,10.41,Total retail
+SCA,G47,2022-08-01,-0.65,10.06,10.71,Total retail
+SCA,G47,2022-09-01,-0.55,11.22,11.77,Total retail
+SCA,G47,2022-10-01,-1.74,10.29,12.03,Total retail
+SCA,G47,2022-11-01,-1.4,10.67,12.07,Total retail
+SCA,G47,2022-12-01,-2.49,11.15,13.64,Total retail
+SCA,G47,2023-01-01,-0.66,11.66,12.32,Total retail
+SCA,G47,2023-02-01,-2.5,11.48,13.98,Total retail
+SCA,G47,2023-03-01,-2.59,11.39,13.98,Total retail
+SCA,G47,2023-04-01,-2.97,11.62,14.59,Total retail
+SCA,G47,2023-05-01,-2.66,10.51,13.17,Total retail
+SCA,G47,2023-06-01,-1.99,11.72,13.71,Total retail
+SCA,G47,2023-07-01,-3.14,10.81,13.95,Total retail
+SCA,G47,2023-08-01,-3.12,12.24,15.36,Total retail
+SCA,G47,2023-09-01,-2.42,12.51,14.93,Total retail
+SCA,G47,2023-10-01,-2.87,12.0,14.87,Total retail
+SCA,G47,2023-11-01,-2.91,12.02,14.93,Total retail
+SCA,G47,2023-12-01,-2.57,12.27,14.84,Total retail
+SCA,G47,2024-01-01,-3.12,11.8,14.92,Total retail
+SCA,G47,2024-02-01,-3.03,12.71,15.74,Total retail
+SCA,G47,2024-03-01,-3.51,12.38,15.89,Total retail
+SCA,G47,2024-04-01,-2.65,11.55,14.2,Total retail
+SCA,G47,2024-05-01,-2.88,12.7,15.58,Total retail
+SCA,G47,2024-06-01,-3.85,11.26,15.11,Total retail
+SCA,G47,2024-07-01,-2.71,11.92,14.63,Total retail
+SCA,G47,2024-08-01,-2.1,13.25,15.35,Total retail
+SCA,G47,2024-09-01,-2.72,11.23,13.95,Total retail
+SCA,G47,2024-10-01,-3.4,11.23,14.63,Total retail
+SCA,G47,2024-11-01,-3.81,12.17,15.98,Total retail
+SCA,G47,2024-12-01,-2.92,11.11,14.03,Total retail
+SCA,G47,2025-01-01,-3.19,12.17,15.36,Total retail
+SCA,G47,2025-02-01,-2.7,12.24,14.94,Total retail
+SCA,G47,2025-03-01,-1.92,10.85,12.77,Total retail
+SCA,G47,2025-04-01,-2.19,13.34,15.53,Total retail
+SCA,G47,2025-05-01,-1.44,12.81,14.25,Total retail
+SCA,G47,2025-06-01,-1.01,12.55,13.56,Total retail
+SCA,G47,2025-07-01,-1.03,12.44,13.47,Total retail
+SCA,G47,2025-08-01,-1.22,12.68,13.9,Total retail
+SCA,G47,2025-09-01,-1.06,13.01,14.07,Total retail
+SCA,G47,2025-10-01,-1.42,12.97,14.39,Total retail
+SCA,G47,2025-11-01,-0.85,13.62,14.47,Total retail
+SCA,G47,2025-12-01,-1.48,12.7,14.18,Total retail
+SCA,G47,2026-01-01,-0.84,13.52,14.36,Total retail
+SCA,G47,2026-02-01,-2.11,12.82,14.93,Total retail
+SCA,G47,2026-03-01,-0.35,14.73,15.08,Total retail
+SCA,G47,2026-04-01,-1.06,14.57,15.63,Total retail
+SCA,G47,2026-05-01,-0.29,14.09,14.38,Total retail
+SCA,G47,2026-06-01,-1.1,13.89,14.99,Total retail
+SCA,G47,2026-07-01,-1.41,13.89,15.3,Total retail
+SCA,G47,2026-08-01,0.69,16.63,15.94,Total retail
+SCA,G4791,2020-03-01,2.55,3.86,1.31,Online / mail order
+SCA,G4791,2020-04-01,23.34,23.78,0.44,Online / mail order
+SCA,G4791,2020-05-01,23.47,22.96,-0.51,Online / mail order
+SCA,G4791,2020-06-01,20.73,18.95,-1.78,Online / mail order
+SCA,G4791,2020-07-01,16.02,13.17,-2.85,Online / mail order
+SCA,G4791,2020-08-01,21.06,19.8,-1.26,Online / mail order
+SCA,G4791,2020-09-01,19.29,18.82,-0.47,Online / mail order
+SCA,G4791,2020-10-01,21.92,22.92,1.0,Online / mail order
+SCA,G4791,2020-11-01,25.36,26.55,1.19,Online / mail order
+SCA,G4791,2020-12-01,29.33,29.75,0.42,Online / mail order
+SCA,G4791,2021-01-01,27.38,29.55,2.17,Online / mail order
+SCA,G4791,2021-02-01,30.67,33.64,2.97,Online / mail order
+SCA,G4791,2021-03-01,32.76,30.82,-1.94,Online / mail order
+SCA,G4791,2021-04-01,32.52,34.72,2.2,Online / mail order
+SCA,G4791,2021-05-01,30.03,30.47,0.44,Online / mail order
+SCA,G4791,2021-06-01,23.49,25.53,2.04,Online / mail order
+SCA,G4791,2021-07-01,14.14,18.13,3.99,Online / mail order
+SCA,G4791,2021-08-01,17.95,25.16,7.21,Online / mail order
+SCA,G4791,2021-09-01,15.84,19.96,4.12,Online / mail order
+SCA,G4791,2021-10-01,17.27,19.44,2.17,Online / mail order
+SCA,G4791,2021-11-01,21.21,22.2,0.99,Online / mail order
+SCA,G4791,2021-12-01,18.74,22.28,3.54,Online / mail order
+SCA,G4791,2022-01-01,17.57,26.76,9.19,Online / mail order
+SCA,G4791,2022-02-01,16.21,20.63,4.42,Online / mail order
+SCA,G4791,2022-03-01,16.07,18.33,2.26,Online / mail order
+SCA,G4791,2022-04-01,11.33,21.08,9.75,Online / mail order
+SCA,G4791,2022-05-01,9.19,18.71,9.52,Online / mail order
+SCA,G4791,2022-06-01,10.17,16.7,6.53,Online / mail order
+SCA,G4791,2022-07-01,9.02,17.54,8.52,Online / mail order
+SCA,G4791,2022-08-01,5.82,18.09,12.27,Online / mail order
+SCA,G4791,2022-09-01,8.07,20.79,12.72,Online / mail order
+SCA,G4791,2022-10-01,6.05,16.08,10.03,Online / mail order
+SCA,G4791,2022-11-01,4.66,14.72,10.06,Online / mail order
+SCA,G4791,2022-12-01,2.29,14.26,11.97,Online / mail order
+SCA,G4791,2023-01-01,2.55,15.39,12.84,Online / mail order
+SCA,G4791,2023-02-01,1.52,16.72,15.2,Online / mail order
+SCA,G4791,2023-03-01,2.47,15.62,13.15,Online / mail order
+SCA,G4791,2023-04-01,0.22,14.78,14.56,Online / mail order
+SCA,G4791,2023-05-01,1.46,16.76,15.3,Online / mail order
+SCA,G4791,2023-06-01,-1.42,15.17,16.59,Online / mail order
+SCA,G4791,2023-07-01,-0.62,15.96,16.58,Online / mail order
+SCA,G4791,2023-08-01,-1.14,16.61,17.75,Online / mail order
+SCA,G4791,2023-09-01,-0.96,12.17,13.13,Online / mail order
+SCA,G4791,2023-10-01,-0.97,11.98,12.95,Online / mail order
+SCA,G4791,2023-11-01,-1.01,15.56,16.57,Online / mail order
+SCA,G4791,2023-12-01,-6.2,9.29,15.49,Online / mail order
+SCA,G4791,2024-01-01,-4.95,9.8,14.75,Online / mail order
+SCA,G4791,2024-02-01,-2.8,8.94,11.74,Online / mail order
+SCA,G4791,2024-03-01,-4.42,10.61,15.03,Online / mail order
+SCA,G4791,2024-04-01,-3.95,13.04,16.99,Online / mail order
+SCA,G4791,2024-05-01,-5.67,8.98,14.65,Online / mail order
+SCA,G4791,2024-06-01,-4.58,11.63,16.21,Online / mail order
+SCA,G4791,2024-07-01,-4.54,12.04,16.58,Online / mail order
+SCA,G4791,2024-08-01,-4.15,10.64,14.79,Online / mail order
+SCA,G4791,2024-09-01,-1.97,11.81,13.78,Online / mail order
+SCA,G4791,2024-10-01,-3.82,10.97,14.79,Online / mail order
+SCA,G4791,2024-11-01,-4.74,12.3,17.04,Online / mail order
+SCA,G4791,2024-12-01,-3.36,13.33,16.69,Online / mail order
+SCA,G4791,2025-01-01,-5.18,9.38,14.56,Online / mail order
+SCA,G4791,2025-02-01,-4.26,8.55,12.81,Online / mail order
+SCA,G4791,2025-03-01,-4.83,9.04,13.87,Online / mail order
+SCA,G4791,2025-04-01,-3.98,9.13,13.11,Online / mail order
+SCA,G4791,2025-05-01,-5.29,7.77,13.06,Online / mail order
+SCA,G4791,2025-06-01,-3.14,8.56,11.7,Online / mail order
+SCA,G4791,2025-07-01,-0.93,8.95,9.88,Online / mail order
+SCA,G4791,2025-08-01,-2.02,8.18,10.2,Online / mail order
+SCA,G4791,2025-09-01,-3.53,14.05,17.58,Online / mail order
+SCA,G4791,2025-10-01,-2.61,7.8,10.41,Online / mail order
+SCA,G4791,2025-11-01,-3.12,5.16,8.28,Online / mail order
+SCA,G4791,2025-12-01,-2.63,13.13,15.76,Online / mail order
+SCA,G4791,2026-01-01,-1.82,8.18,10.0,Online / mail order
+SCA,G4791,2026-02-01,-4.2,5.45,9.65,Online / mail order
+SCA,G4791,2026-03-01,-1.85,9.48,11.33,Online / mail order
+SCA,G4791,2026-04-01,-3.57,4.51,8.08,Online / mail order
+SCA,G4791,2026-05-01,-3.06,5.73,8.79,Online / mail order
+SCA,G4791,2026-06-01,-1.53,9.06,10.59,Online / mail order
+SCA,G4791,2026-07-01,-5.83,3.93,9.76,Online / mail order
+SCA,G4791,2026-08-01,-5.77,12.57,18.34,Online / mail order
+SCA,G47_FOOD,2020-03-01,2.89,3.72,0.83,"Food, drink, tobacco"
+SCA,G47_FOOD,2020-04-01,-2.89,-2.82,0.07,"Food, drink, tobacco"
+SCA,G47_FOOD,2020-05-01,-1.39,-1.57,-0.18,"Food, drink, tobacco"
+SCA,G47_FOOD,2020-06-01,-1.22,-0.6,0.62,"Food, drink, tobacco"
+SCA,G47_FOOD,2020-07-01,-1.55,-1.3,0.25,"Food, drink, tobacco"
+SCA,G47_FOOD,2020-08-01,-0.19,-0.9,-0.71,"Food, drink, tobacco"
+SCA,G47_FOOD,2020-09-01,-0.78,-1.96,-1.18,"Food, drink, tobacco"
+SCA,G47_FOOD,2020-10-01,0.67,0.36,-0.31,"Food, drink, tobacco"
+SCA,G47_FOOD,2020-11-01,0.07,-0.95,-1.02,"Food, drink, tobacco"
+SCA,G47_FOOD,2020-12-01,1.53,1.01,-0.52,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-01-01,1.37,1.57,0.2,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-02-01,0.76,0.77,0.01,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-03-01,2.12,1.23,-0.89,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-04-01,1.37,2.07,0.7,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-05-01,1.27,0.05,-1.22,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-06-01,-0.35,0.26,0.61,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-07-01,-1.07,0.0,1.07,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-08-01,-1.59,-0.75,0.84,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-09-01,-0.4,0.08,0.48,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-10-01,-0.13,0.68,0.81,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-11-01,0.54,1.64,1.1,"Food, drink, tobacco"
+SCA,G47_FOOD,2021-12-01,1.61,2.03,0.42,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-01-01,0.01,2.38,2.37,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-02-01,-0.45,2.87,3.32,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-03-01,-0.83,3.12,3.95,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-04-01,-3.29,3.75,7.04,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-05-01,-3.07,4.61,7.68,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-06-01,-3.49,6.28,9.77,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-07-01,-2.93,6.17,9.1,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-08-01,-3.01,6.83,9.84,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-09-01,-3.34,7.46,10.8,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-10-01,-3.6,8.61,12.21,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-11-01,-4.5,9.49,13.99,"Food, drink, tobacco"
+SCA,G47_FOOD,2022-12-01,-5.86,9.5,15.36,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-01-01,-3.42,11.11,14.53,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-02-01,-4.68,11.62,16.3,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-03-01,-4.27,10.86,15.13,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-04-01,-3.71,13.54,17.25,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-05-01,-3.8,11.92,15.72,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-06-01,-3.4,13.92,17.32,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-07-01,-3.73,13.6,17.33,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-08-01,-4.05,11.76,15.81,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-09-01,-3.09,13.87,16.96,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-10-01,-3.95,12.87,16.82,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-11-01,-4.27,12.16,16.43,"Food, drink, tobacco"
+SCA,G47_FOOD,2023-12-01,-5.16,12.56,17.72,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-01-01,-4.5,12.46,16.96,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-02-01,-4.28,12.75,17.03,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-03-01,-4.62,12.73,17.35,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-04-01,-4.3,10.81,15.11,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-05-01,-3.82,12.89,16.71,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-06-01,-5.14,11.45,16.59,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-07-01,-4.2,12.09,16.29,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-08-01,-3.38,13.53,16.91,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-09-01,-3.33,13.74,17.07,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-10-01,-3.96,14.88,18.84,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-11-01,-4.23,14.86,19.09,"Food, drink, tobacco"
+SCA,G47_FOOD,2024-12-01,-4.42,16.12,20.54,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-01-01,-4.51,13.95,18.46,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-02-01,-4.5,13.15,17.65,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-03-01,-4.95,14.28,19.23,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-04-01,-3.71,16.25,19.96,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-05-01,-5.14,16.12,21.26,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-06-01,-3.76,15.37,19.13,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-07-01,-4.56,16.9,21.46,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-08-01,-3.95,16.05,20.0,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-09-01,-4.61,16.63,21.24,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-10-01,-4.16,16.35,20.51,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-11-01,-4.38,16.67,21.05,"Food, drink, tobacco"
+SCA,G47_FOOD,2025-12-01,-4.25,16.22,20.47,"Food, drink, tobacco"
+SCA,G47_FOOD,2026-01-01,-4.16,15.73,19.89,"Food, drink, tobacco"
+SCA,G47_FOOD,2026-02-01,-4.96,14.81,19.77,"Food, drink, tobacco"
+SCA,G47_FOOD,2026-03-01,-4.28,15.74,20.02,"Food, drink, tobacco"
+SCA,G47_FOOD,2026-04-01,-4.51,15.94,20.45,"Food, drink, tobacco"
+SCA,G47_FOOD,2026-05-01,-4.0,15.31,19.31,"Food, drink, tobacco"
+SCA,G47_FOOD,2026-06-01,-4.77,15.14,19.91,"Food, drink, tobacco"
+SCA,G47_FOOD,2026-07-01,-4.96,15.01,19.97,"Food, drink, tobacco"
+SCA,G47_FOOD,2026-08-01,-2.5,14.09,16.59,"Food, drink, tobacco"
+SCA,G47_NFOOD,2020-03-01,-17.86,-20.96,-3.1,Non-food (incl. fuel)
+SCA,G47_NFOOD,2020-04-01,-34.32,-38.58,-4.26,Non-food (incl. fuel)
+SCA,G47_NFOOD,2020-05-01,-20.06,-24.07,-4.01,Non-food (incl. fuel)
+SCA,G47_NFOOD,2020-06-01,-6.03,-10.25,-4.22,Non-food (incl. fuel)
+SCA,G47_NFOOD,2020-07-01,-6.44,-9.93,-3.49,Non-food (incl. fuel)
+SCA,G47_NFOOD,2020-08-01,-7.41,-10.18,-2.77,Non-food (incl. fuel)
+SCA,G47_NFOOD,2020-09-01,-6.63,-9.18,-2.55,Non-food (incl. fuel)
+SCA,G47_NFOOD,2020-10-01,-5.58,-9.28,-3.7,Non-food (incl. fuel)
+SCA,G47_NFOOD,2020-11-01,-5.75,-10.14,-4.39,Non-food (incl. fuel)
+SCA,G47_NFOOD,2020-12-01,-10.74,-12.64,-1.9,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-01-01,-15.75,-17.96,-2.21,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-02-01,-11.55,-13.84,-2.29,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-03-01,-8.34,-11.56,-3.22,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-04-01,-10.96,-12.59,-1.63,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-05-01,-8.85,-7.32,1.53,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-06-01,-4.93,-3.95,0.98,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-07-01,-5.5,-3.96,1.54,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-08-01,-3.47,-0.93,2.54,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-09-01,-3.43,-1.07,2.36,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-10-01,-3.67,-0.77,2.9,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-11-01,-3.72,-0.03,3.69,Non-food (incl. fuel)
+SCA,G47_NFOOD,2021-12-01,-3.99,0.01,4.0,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-01-01,-6.68,-1.1,5.58,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-02-01,-3.5,3.82,7.32,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-03-01,-3.9,5.79,9.69,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-04-01,-5.67,5.21,10.88,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-05-01,-3.9,8.82,12.72,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-06-01,-4.31,8.79,13.1,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-07-01,-4.2,8.54,12.74,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-08-01,-2.38,9.24,11.62,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-09-01,-4.28,9.25,13.53,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-10-01,-4.94,7.43,12.37,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-11-01,-6.04,7.61,13.65,Non-food (incl. fuel)
+SCA,G47_NFOOD,2022-12-01,-6.32,7.46,13.78,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-01-01,-5.74,9.29,15.03,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-02-01,-6.75,8.11,14.86,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-03-01,-5.36,7.9,13.26,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-04-01,-4.85,9.61,14.46,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-05-01,-4.96,7.32,12.28,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-06-01,-4.9,8.2,13.1,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-07-01,-4.72,7.9,12.62,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-08-01,-5.69,8.38,14.07,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-09-01,-5.27,9.47,14.74,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-10-01,-4.66,8.78,13.44,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-11-01,-3.66,9.47,13.13,Non-food (incl. fuel)
+SCA,G47_NFOOD,2023-12-01,-6.43,5.39,11.82,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-01-01,-12.56,0.22,12.78,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-02-01,-12.42,0.8,13.22,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-03-01,-12.83,0.84,13.67,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-04-01,-11.68,2.22,13.9,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-05-01,-12.07,1.95,14.02,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-06-01,-12.49,-0.02,12.47,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-07-01,-12.04,0.39,12.43,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-08-01,-11.86,0.25,12.11,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-09-01,-12.05,-1.01,11.04,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-10-01,-11.98,-0.74,11.24,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-11-01,-10.99,0.36,11.35,Non-food (incl. fuel)
+SCA,G47_NFOOD,2024-12-01,-11.72,1.67,13.39,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-01-01,-10.32,1.2,11.52,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-02-01,-10.62,1.53,12.15,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-03-01,-11.32,-0.2,11.12,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-04-01,-11.71,-0.33,11.38,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-05-01,-9.46,0.47,9.93,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-06-01,-8.37,1.82,10.19,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-07-01,-8.49,1.76,10.25,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-08-01,-9.04,2.93,11.97,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-09-01,-7.97,3.09,11.06,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-10-01,-8.06,2.73,10.79,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-11-01,-7.61,3.29,10.9,Non-food (incl. fuel)
+SCA,G47_NFOOD,2025-12-01,-7.6,2.3,9.9,Non-food (incl. fuel)
+SCA,G47_NFOOD,2026-01-01,-8.85,4.06,12.91,Non-food (incl. fuel)
+SCA,G47_NFOOD,2026-02-01,-8.54,2.49,11.03,Non-food (incl. fuel)
+SCA,G47_NFOOD,2026-03-01,-5.68,9.24,14.92,Non-food (incl. fuel)
+SCA,G47_NFOOD,2026-04-01,-7.14,9.77,16.91,Non-food (incl. fuel)
+SCA,G47_NFOOD,2026-05-01,-7.47,8.25,15.72,Non-food (incl. fuel)
+SCA,G47_NFOOD,2026-06-01,-7.03,8.65,15.68,Non-food (incl. fuel)
+SCA,G47_NFOOD,2026-07-01,-7.98,8.81,16.79,Non-food (incl. fuel)
+SCA,G47_NFOOD,2026-08-01,-7.83,10.93,18.76,Non-food (incl. fuel)

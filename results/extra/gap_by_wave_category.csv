@@ -1,0 +1,17 @@
+nace,category,wave,median,q25,q75,countries
+G47,Total retail,First lockdown,-8.79,-14.41,-5.5,33
+G47,Total retail,Summer 2020,-2.41,-6.25,1.12,33
+G47,Total retail,Winter wave,-3.68,-7.56,-0.35,33
+G47,Total retail,Reopening 2021,0.73,-2.14,5.57,33
+G4791,Online / mail order,First lockdown,16.93,11.33,24.71,19
+G4791,Online / mail order,Summer 2020,19.2,11.65,24.19,19
+G4791,Online / mail order,Winter wave,27.88,26.08,36.42,19
+G4791,Online / mail order,Reopening 2021,18.68,12.86,34.05,19
+G47_FOOD,"Food, drink, tobacco",First lockdown,-0.8,-4.3,2.75,33
+G47_FOOD,"Food, drink, tobacco",Summer 2020,-0.45,-4.32,2.59,33
+G47_FOOD,"Food, drink, tobacco",Winter wave,1.25,-3.33,5.4,33
+G47_FOOD,"Food, drink, tobacco",Reopening 2021,-0.96,-3.42,3.76,33
+G47_NFOOD,Non-food (incl. fuel),First lockdown,-18.86,-23.39,-9.88,23
+G47_NFOOD,Non-food (incl. fuel),Summer 2020,-1.09,-6.87,3.01,23
+G47_NFOOD,Non-food (incl. fuel),Winter wave,-7.59,-10.78,-3.87,23
+G47_NFOOD,Non-food (incl. fuel),Reopening 2021,1.26,-3.89,7.1,23

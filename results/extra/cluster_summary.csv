@@ -1,0 +1,13 @@
+nace,category,group,countries,avg_gap_pct,members
+G47,Total retail,Highest gap (least hit / gained),5,4.08,"Belgium, Denmark, Finland, Norway, Switzerland"
+G47,Total retail,Lowest gap (hit hardest),16,-7.98,"Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Czechia, Hungary, Italy, Latvia, Luxembourg, Malta, Montenegro, North Macedonia, Portugal, Romania, Slovakia, Spain"
+G47,Total retail,Middle,12,-1.27,"Austria, Cyprus, Estonia, France, Germany, Greece, Lithuania, Netherlands, Poland, Serbia, Slovenia, Türkiye"
+G4791,Online / mail order,Highest gap (least hit / gained),6,43.63,"Bulgaria, Greece, Italy, Lithuania, Norway, Türkiye"
+G4791,Online / mail order,Lowest gap (hit hardest),6,10.62,"Croatia, Czechia, France, Poland, Portugal, Romania"
+G4791,Online / mail order,Middle,7,21.93,"Austria, Belgium, Finland, Germany, Netherlands, Spain, Sweden"
+G47_FOOD,"Food, drink, tobacco",Highest gap (least hit / gained),15,4.19,"Austria, Belgium, Denmark, Finland, France, Germany, Greece, Lithuania, Luxembourg, Netherlands, Norway, Serbia, Slovenia, Switzerland, Türkiye"
+G47_FOOD,"Food, drink, tobacco",Lowest gap (hit hardest),10,-7.16,"Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Malta, Montenegro, North Macedonia, Portugal, Romania, Slovakia"
+G47_FOOD,"Food, drink, tobacco",Middle,8,-0.9,"Cyprus, Czechia, Estonia, Hungary, Italy, Latvia, Poland, Spain"
+G47_NFOOD,Non-food (incl. fuel),Highest gap (least hit / gained),10,-1.38,"Belgium, Denmark, Estonia, France, Germany, Greece, Lithuania, Luxembourg, Sweden, Türkiye"
+G47_NFOOD,Non-food (incl. fuel),Lowest gap (hit hardest),9,-12.32,"Bulgaria, Croatia, Cyprus, Italy, Malta, Portugal, Romania, Slovenia, Spain"
+G47_NFOOD,Non-food (incl. fuel),Middle,4,-6.14,"Austria, Czechia, Latvia, Slovakia"

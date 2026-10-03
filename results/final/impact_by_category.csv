@@ -1,0 +1,10 @@
+adj,nace,n_countries,median_peak_gap_pct,median_avg_gap_pct,q25_avg_gap_pct,q75_avg_gap_pct,median_cum_gap_months_of_sales,median_pct_months_outside_band,median_months_to_recover,share_countries_same_direction,noise_floor_pct,verdict
+CAR,G47_NFOOD,23,-34.39,-4.2,-9.39,-0.48,-0.96,22.73,2.0,73.91,1.84,clear effect
+NSA,G47,33,-21.02,-5.18,-8.38,-0.54,-1.12,31.82,3.0,75.76,1.56,clear effect
+NSA,G4791,19,48.44,19.43,16.38,28.36,4.34,22.73,1.0,100.0,2.3,clear effect
+NSA,G47_FOOD,33,4.8,-1.45,-5.28,2.65,-0.49,9.09,1.0,54.55,1.95,within noise
+NSA,G47_NFOOD,6,-34.01,-7.54,-11.06,-5.7,-1.61,36.36,4.5,83.33,2.7,clear effect
+SCA,G47,33,-19.4,-2.99,-6.1,0.8,-0.64,31.82,3.0,63.64,1.96,clear effect
+SCA,G4791,19,37.39,21.7,15.11,28.9,4.77,22.73,2.0,100.0,4.71,clear effect
+SCA,G47_FOOD,33,5.83,0.54,-3.62,3.85,0.12,9.09,1.0,51.52,1.88,within noise
+SCA,G47_NFOOD,6,-34.32,-9.11,-13.77,-2.66,-2.0,52.28,6.0,83.33,2.85,clear effect

@@ -1,0 +1,25 @@
+category,factor_a,factor_b,correlation
+Total retail,Excess deaths,Online shopping 2019,-0.7
+Total retail,Excess deaths,Income (GDP per capita),-0.69
+Total retail,Excess deaths,Rules strictness (stringency index),-0.17
+Total retail,Online shopping 2019,Rules strictness (stringency index),-0.22
+Total retail,Income (GDP per capita),Online shopping 2019,0.75
+Total retail,Income (GDP per capita),Rules strictness (stringency index),-0.08
+Online / mail order,Excess deaths,Online shopping 2019,-0.7
+Online / mail order,Excess deaths,Income (GDP per capita),-0.68
+Online / mail order,Excess deaths,Rules strictness (stringency index),-0.17
+Online / mail order,Online shopping 2019,Rules strictness (stringency index),-0.27
+Online / mail order,Income (GDP per capita),Online shopping 2019,0.89
+Online / mail order,Income (GDP per capita),Rules strictness (stringency index),-0.11
+"Food, drink, tobacco",Excess deaths,Online shopping 2019,-0.7
+"Food, drink, tobacco",Excess deaths,Income (GDP per capita),-0.69
+"Food, drink, tobacco",Excess deaths,Rules strictness (stringency index),-0.17
+"Food, drink, tobacco",Online shopping 2019,Rules strictness (stringency index),-0.22
+"Food, drink, tobacco",Income (GDP per capita),Online shopping 2019,0.75
+"Food, drink, tobacco",Income (GDP per capita),Rules strictness (stringency index),-0.08
+Non-food (incl. fuel),Excess deaths,Online shopping 2019,-0.62
+Non-food (incl. fuel),Excess deaths,Income (GDP per capita),-0.56
+Non-food (incl. fuel),Excess deaths,Rules strictness (stringency index),-0.2
+Non-food (incl. fuel),Online shopping 2019,Rules strictness (stringency index),-0.32
+Non-food (incl. fuel),Income (GDP per capita),Online shopping 2019,0.61
+Non-food (incl. fuel),Income (GDP per capita),Rules strictness (stringency index),-0.15
